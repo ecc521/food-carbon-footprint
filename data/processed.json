@@ -1,0 +1,2632 @@
+[
+	{
+		"name": "Lardons Nature",
+		"code": "3222471125113",
+		"footprint": 9.45
+	},
+	{
+		"name": "Lardons fumés",
+		"code": "3222471125120",
+		"footprint": 9.45
+	},
+	{
+		"name": "Truite Fumée",
+		"code": "3392780002891",
+		"footprint": 0.011519999999999999
+	},
+	{
+		"name": "Risotto S. Andrea M-Classic",
+		"code": "7610200010841",
+		"footprint": 2.81
+	},
+	{
+		"name": "Sardines au piment",
+		"code": "3222472572701",
+		"footprint": 3.7
+	},
+	{
+		"name": "Fleur de Colza",
+		"code": "3265474573000",
+		"footprint": 1.5
+	},
+	{
+		"name": "Lait écrémé",
+		"code": "7616600708272",
+		"footprint": 0.397
+	},
+	{
+		"name": "Riz Carolina Parboiled M-Classic",
+		"code": "7610200010902",
+		"footprint": 3.24
+	},
+	{
+		"name": "Soft White Bread Medium",
+		"code": "5010092093045",
+		"footprint": 1.25
+	},
+	{
+		"name": "Truite fumée",
+		"code": "3392780002648",
+		"footprint": 8.28
+	},
+	{
+		"name": "85% Pérou Fruité et Corsé",
+		"code": "3700214611548",
+		"footprint": 1.78
+	},
+	{
+		"name": "Lait caramel beurre salé",
+		"code": "3700214613184",
+		"footprint": 1.5
+	},
+	{
+		"name": "8 feuilles de brick pour aumonières, samossas, cigares.",
+		"code": "3222474147976",
+		"footprint": 5.1
+	},
+	{
+		"name": "Couscous",
+		"code": "3222473592234",
+		"footprint": 2
+	},
+	{
+		"name": "Chocolat noir Equateur 70%",
+		"code": "3700214616987",
+		"footprint": 2.37
+	},
+	{
+		"name": "Tourist Crémant Dark chocolate with raisins, hazelnuts and almonds",
+		"code": "7616500012202",
+		"footprint": 13.11
+	},
+	{
+		"name": "Chocolat noir",
+		"code": "7613269195504",
+		"footprint": 10.57
+	},
+	{
+		"name": "Panier de Yoplait au lait d'amande",
+		"code": "3329770063853",
+		"footprint": 1
+	},
+	{
+		"name": "Sardines à la sauce tomate",
+		"code": "3222472685937",
+		"footprint": 3.95
+	},
+	{
+		"name": "Wedges",
+		"code": "7610200335609",
+		"footprint": 3.44
+	},
+	{
+		"name": "Sucre Blond en morceaux",
+		"code": "3700214610169",
+		"footprint": 0.73
+	},
+	{
+		"name": "Pur arabica moulu GUATEMALA",
+		"code": "3700214617120",
+		"footprint": 2.35
+	},
+	{
+		"name": "Sucre complet muscovado pure canne",
+		"code": "3700214610480",
+		"footprint": 1.36
+	},
+	{
+		"name": "Noir Éclats de Gingembre",
+		"code": "3700214617045",
+		"footprint": 2.05
+	},
+	{
+		"name": "Chocolat noir éclats de menthe",
+		"code": "3700214611555",
+		"footprint": 1.53
+	},
+	{
+		"name": "Caramelos",
+		"code": "8410442715110",
+		"footprint": 0.006999999999999999
+	},
+	{
+		"name": "Riz thaï",
+		"code": "3700214610114",
+		"footprint": 3.88
+	},
+	{
+		"name": "Denny's Country",
+		"code": "7617027012614",
+		"footprint": 3.51
+	},
+	{
+		"name": "Jambon Supérieur sans Couenne",
+		"code": "3700337100653",
+		"footprint": 1
+	},
+	{
+		"name": "Boisson plate aux fruits tropical",
+		"code": "3256220892179",
+		"footprint": 0.05
+	},
+	{
+		"name": "Oatly Barrista",
+		"code": "7394376616228",
+		"footprint": 4.4
+	},
+	{
+		"name": "Limón exprimido",
+		"code": "8480000049032",
+		"footprint": 2.8
+	},
+	{
+		"name": "Aceite de oliva",
+		"code": "8480000046413",
+		"footprint": 50
+	},
+	{
+		"name": "Macarrón",
+		"code": "8480000062505",
+		"footprint": 10
+	},
+	{
+		"name": "Rosquillas",
+		"code": "8437015862170",
+		"footprint": 8.8
+	},
+	{
+		"name": "Cookies Tout Chocolat",
+		"code": "3222471358610",
+		"footprint": 3.05
+	},
+	{
+		"name": "Suprême Lait Noisettes",
+		"code": "7616500644403",
+		"footprint": 10.01
+	},
+	{
+		"name": "Truite Fumée Pyrénées (4 tranches) - 120 g",
+		"code": "3392780007001",
+		"footprint": 8.28
+	},
+	{
+		"name": "DELETE",
+		"code": "2000000118377",
+		"footprint": 0.03
+	},
+	{
+		"name": "Pur Arabica Ethiopie",
+		"code": "3700214617106",
+		"footprint": 1.54
+	},
+	{
+		"name": "Chataignes",
+		"code": "0819377000120",
+		"footprint": 1.5
+	},
+	{
+		"name": "Tablette chocolat Noir dessert",
+		"code": "3700214610190",
+		"footprint": 1.23
+	},
+	{
+		"name": "Top mayo gratuit",
+		"code": "6181100042146",
+		"footprint": 0.35
+	},
+	{
+		"name": "top mayo grand  500f",
+		"code": "6181100042177",
+		"footprint": 9
+	},
+	{
+		"name": "Polvo para preparar bebidas",
+		"code": "3189",
+		"footprint": 1
+	},
+	{
+		"name": "Roblochon Val D'arve",
+		"code": "7610200364005",
+		"footprint": 1.197
+	},
+	{
+		"name": "Brioche tranchée aux oeufs frais",
+		"code": "3222471981191",
+		"footprint": 2.9
+	},
+	{
+		"name": "Thé vert citron vert gingembre bio & équitable",
+		"code": "3700214610404",
+		"footprint": 5.27
+	},
+	{
+		"name": "Thé vert Orange Cannelle",
+		"code": "3700214617892",
+		"footprint": 11.31
+	},
+	{
+		"name": "Noir écorces d'orange",
+		"code": "3700214610077",
+		"footprint": 1.77
+	},
+	{
+		"name": "12 oeufs frais de poules élevées en Plein Air",
+		"code": "3222472262763",
+		"footprint": 6.85
+	},
+	{
+		"name": "Farine de blé fluide",
+		"code": "3222474389093",
+		"footprint": 1.65
+	},
+	{
+		"name": "Chocolate amargo 70% cacao",
+		"code": "0756774011734",
+		"footprint": 1
+	},
+	{
+		"name": "Chips saveur barbecue",
+		"code": "3222473001101",
+		"footprint": 0.055
+	},
+	{
+		"name": "Tortelloni ricotta e spinaci",
+		"code": "7610200067647",
+		"footprint": 2.889
+	},
+	{
+		"name": "Emotionali Multi Fruit Lollies",
+		"code": "20386658",
+		"footprint": 1.35
+	},
+	{
+		"name": "Macro munch gâteau d'anniversaire",
+		"code": "5055950610927",
+		"footprint": 0.62
+	},
+	{
+		"name": "75% Pérou fruité et équilibré",
+		"code": "3700214614259",
+		"footprint": 1.88
+	},
+	{
+		"name": "Pesto basilico",
+		"code": "7613269260417",
+		"footprint": 3.8160000000000003
+	},
+	{
+		"name": "Pommes Noisettes",
+		"code": "3222471021583",
+		"footprint": 1.5
+	},
+	{
+		"name": "Semoule semi-complète Bio Casino",
+		"code": "3222474221638",
+		"footprint": 1.55
+	},
+	{
+		"name": "Riz BASMATI",
+		"code": "7610200059222",
+		"footprint": 3.62
+	},
+	{
+		"name": "Sugo Pomodoro Anna’s Best, Bio",
+		"code": "7613269167747",
+		"footprint": 1.919
+	},
+	{
+		"name": "Merguez porc Porcidou",
+		"code": "3700337100134",
+		"footprint": 1
+	},
+	{
+		"name": "Lait demi-écrémé",
+		"code": "7610200422262",
+		"footprint": 0.45299999999999996
+	},
+	{
+		"name": "6 chipo chorizo",
+		"code": "3700337100783",
+		"footprint": 1
+	},
+	{
+		"name": "",
+		"code": "0710282930192",
+		"footprint": 0.03
+	},
+	{
+		"name": "Chocolate Santocildes",
+		"code": "8426560000229",
+		"footprint": 2
+	},
+	{
+		"name": "Chocolat noir Pérou 90% fruité et boisé",
+		"code": "3700214614266",
+		"footprint": 1.97
+	},
+	{
+		"name": "Noir Fruit de la Passion",
+		"code": "3700214617632",
+		"footprint": 2.14
+	},
+	{
+		"name": "Yogourt fraise BIO",
+		"code": "7610200379351",
+		"footprint": 1.8090000000000002
+	},
+	{
+		"name": "Chipolatas vigneronne",
+		"code": "3700337100790",
+		"footprint": 1
+	},
+	{
+		"name": "Pur Arabica Pérou",
+		"code": "3700214617090",
+		"footprint": 1.86
+	},
+	{
+		"name": "Hafer fettarm bio",
+		"code": "7394376665172",
+		"footprint": 0.29
+	},
+	{
+		"name": "Truite fumée au bois de hêtre (6 tranches) - 150 g",
+		"code": "3365930000108",
+		"footprint": 13.5
+	},
+	{
+		"name": "Chocolat au lait",
+		"code": "7613269195306",
+		"footprint": 13.05
+	},
+	{
+		"name": "Jalotofu Kylmäsavu",
+		"code": "6416419130520",
+		"footprint": 2
+	},
+	{
+		"name": "Riz long grain Camargue",
+		"code": "3222472185338",
+		"footprint": 5.45
+	},
+	{
+		"name": "Demi-crème UHT",
+		"code": "7616600702539",
+		"footprint": 0.64
+	},
+	{
+		"name": "Chocolat blanc",
+		"code": "7613269195405",
+		"footprint": 14.4
+	},
+	{
+		"name": "Sardines à l'huile d'olive vierge extra et citron",
+		"code": "3222472577287",
+		"footprint": 3.45
+	},
+	{
+		"name": "Crème aux œufs saveur vanille - Aux œufs extra-frais",
+		"code": "3222471919927",
+		"footprint": 4.05
+	},
+	{
+		"name": "Lait noisettes entières",
+		"code": "3700214610039",
+		"footprint": 1.35
+	},
+	{
+		"name": "Sardines à l'huile d'olive vierge extra",
+		"code": "3222473515325",
+		"footprint": 3.4
+	},
+	{
+		"name": "Sardines à l'huile de tournesol",
+		"code": "3222472632832",
+		"footprint": 3.7
+	},
+	{
+		"name": "Chocolat Tourist",
+		"code": "7616500012509",
+		"footprint": 11.45
+	},
+	{
+		"name": "Chocolat au lait aux éclats de noisettes",
+		"code": "7613269195337",
+		"footprint": 11.78
+	},
+	{
+		"name": "Nectar ananas mangue passion",
+		"code": "3700214613788",
+		"footprint": 2.25
+	},
+	{
+		"name": "Banane coco Alter Eco",
+		"code": "3700214614983",
+		"footprint": 1.02
+	},
+	{
+		"name": "Goyave passion ",
+		"code": "3700214614990",
+		"footprint": 1.02
+	},
+	{
+		"name": "Saucisson à l'ail pur porc nature",
+		"code": "3222471059463",
+		"footprint": 8.4
+	},
+	{
+		"name": "Chocolat noir, éclats amandes",
+		"code": "3700214617410",
+		"footprint": 1.53
+	},
+	{
+		"name": "Thé Earl Grey bergamote",
+		"code": "3700214610176",
+		"footprint": 7.66
+	},
+	{
+		"name": "Les Adorables Cremetta",
+		"code": "7616500020030",
+		"footprint": 12.06
+	},
+	{
+		"name": "Nectar banane goyave acerola",
+		"code": "3700214613795",
+		"footprint": 0.94
+	},
+	{
+		"name": "Chocolat noir fourré à la crème d'amandes",
+		"code": "7616500020290",
+		"footprint": 12.93
+	},
+	{
+		"name": "Lait de coco",
+		"code": "3700214613740",
+		"footprint": 3.12
+	},
+	{
+		"name": "Biscottes au froment",
+		"code": "3222471167205",
+		"footprint": 0.045
+	},
+	{
+		"name": "Pain Complet avec Acide Folique",
+		"code": "7616700018660",
+		"footprint": 1.16
+	},
+	{
+		"name": "Alter eco Noir amandes entières",
+		"code": "3700214616260",
+		"footprint": 1.22
+	},
+	{
+		"name": "",
+		"code": "2000000055689",
+		"footprint": 0.00010999999999999999
+	},
+	{
+		"name": "Gnocchi au basilic",
+		"code": "7610200067654",
+		"footprint": 2.468
+	},
+	{
+		"name": "Biscottes au froment 100 Tranches",
+		"code": "3222471534922",
+		"footprint": 0.046
+	},
+	{
+		"name": "Chips nature",
+		"code": "3222472030584",
+		"footprint": 0.057999999999999996
+	},
+	{
+		"name": "Viande des grisons",
+		"code": "3222471051290",
+		"footprint": 25.2
+	},
+	{
+		"name": "Mini Weihnachts-Figürchen",
+		"code": "22140807",
+		"footprint": 0.71
+	},
+	{
+		"name": "Coquillettes au Blé Complet",
+		"code": "3222475072079",
+		"footprint": 0.044000000000000004
+	},
+	{
+		"name": "Soupe poulet",
+		"code": "5410056186156",
+		"footprint": 0.5
+	},
+	{
+		"name": "Rooibos nature bio & équitable",
+		"code": "3700214610411",
+		"footprint": 6.07
+	},
+	{
+		"name": "Thé noir Ananas Noix de coco",
+		"code": "3700214617885",
+		"footprint": 9.65
+	},
+	{
+		"name": "Alter eco 90% Pérou",
+		"code": "3700214617434",
+		"footprint": 1.97
+	},
+	{
+		"name": "Coquillettes au blé intégral Bio",
+		"code": "3350031904370",
+		"footprint": 1.8285
+	},
+	{
+		"name": "Denny's frites classic",
+		"code": "7610200312143",
+		"footprint": 3.45
+	},
+	{
+		"name": "Veganz Weiße Rice Choc Erdbeer crisp Fraises Croustillantes",
+		"code": "4260402485058",
+		"footprint": 2.79
+	},
+	{
+		"name": "Petales riz & ble complet aux fruits rouges",
+		"code": "3222474347413",
+		"footprint": 5.6
+	},
+	{
+		"name": "Emmental Français Râpé (29 % MG)",
+		"code": "3350030151935",
+		"footprint": 11.27
+	},
+	{
+		"name": "Boulgour bio",
+		"code": "3222473592180",
+		"footprint": 1.85
+	},
+	{
+		"name": "Lait entier",
+		"code": "7610200243430",
+		"footprint": 0.575
+	},
+	{
+		"name": "Rooibos épices",
+		"code": "3700214610923",
+		"footprint": 5.62
+	},
+	{
+		"name": "Yaourt nature 0% mat. gr",
+		"code": "3222471092743",
+		"footprint": 2.2
+	},
+	{
+		"name": "Lait de coco curry jaune",
+		"code": "3700214614396",
+		"footprint": 3.12
+	},
+	{
+		"name": "Noir éclats d'amandes",
+		"code": "3700214610046",
+		"footprint": 1.53
+	},
+	{
+		"name": "Jambon superieur sans couenne",
+		"code": "3560071162788",
+		"footprint": 1.4
+	},
+	{
+		"name": "Pumpernickel",
+		"code": "7610169013310",
+		"footprint": 0.07
+	},
+	{
+		"name": "Pur arabica moulu Mexique",
+		"code": "3700214617113",
+		"footprint": 2.23
+	},
+	{
+		"name": "Pain de seigle complet (rond/tranches)",
+		"code": "7616700002621",
+		"footprint": 0.091
+	},
+	{
+		"name": "Muesli croustillant choco bio Alter Eco",
+		"code": "3700214613931",
+		"footprint": 1.67
+	},
+	{
+		"name": "Noir Amandes",
+		"code": "3700214614211",
+		"footprint": 1.5
+	},
+	{
+		"name": "Lasagnes au chèvre et aux épinards",
+		"code": "3222473808946",
+		"footprint": 4.85
+	},
+	{
+		"name": "Sirop d'orgeat",
+		"code": "3222474197193",
+		"footprint": 1.3
+	},
+	{
+		"name": "Thé vert Earl Grey à la bergamote",
+		"code": "3700214613443",
+		"footprint": 7.7
+	},
+	{
+		"name": "Noir Éclats de Menthe Pérou (lot de 2)",
+		"code": "3700214615713",
+		"footprint": 1.53
+	},
+	{
+		"name": "Pain de seigle complet",
+		"code": "7610169013327",
+		"footprint": 0.08800000000000001
+	},
+	{
+		"name": "Quiche saumon bocolis",
+		"code": "3222474224950",
+		"footprint": 6.6
+	},
+	{
+		"name": "Citronnade",
+		"code": "3222471101834",
+		"footprint": 1.4
+	},
+	{
+		"name": "Noir pointe de piment",
+		"code": "3700214617038",
+		"footprint": 2.19
+	},
+	{
+		"name": "Chocolat Lait classique dégustation Bio Alter Eco",
+		"code": "3700214610534",
+		"footprint": 1.6
+	},
+	{
+		"name": "Chips nature Migros budget",
+		"code": "7616800817088",
+		"footprint": 2.943
+	},
+	{
+		"name": "Fromage Frais pur Chèvre",
+		"code": "3222472889243",
+		"footprint": 8.1
+	},
+	{
+		"name": "",
+		"code": "4051895004471",
+		"footprint": 0.002
+	},
+	{
+		"name": "Mascarpone",
+		"code": "7616600700405",
+		"footprint": 2.97
+	},
+	{
+		"name": "Cottage cheese nature",
+		"code": "7610200373304",
+		"footprint": 0.562
+	},
+	{
+		"name": "Chips à l'ancienne saveur moutarde",
+		"code": "3222472651307",
+		"footprint": 0.040999999999999995
+	},
+	{
+		"name": "Raclette",
+		"code": "7610200375339",
+		"footprint": 1.489
+	},
+	{
+		"name": "Sucre de canne complet Rapadura",
+		"code": "4006040301097",
+		"footprint": 0.17
+	},
+	{
+		"name": "Séré maigre",
+		"code": "7610200011183",
+		"footprint": 2.345
+	},
+	{
+		"name": "Saucisses de Francfort",
+		"code": "3222473388165",
+		"footprint": 8.25
+	},
+	{
+		"name": "Lasagnes aux 2 saumons et aux petits légumes",
+		"code": "3222473631186",
+		"footprint": 4.3
+	},
+	{
+		"name": "Pommes Dauphine",
+		"code": "3222473960132",
+		"footprint": 3.45
+	},
+	{
+		"name": "Frites spécial friteuse",
+		"code": "3222471021606",
+		"footprint": 1
+	},
+	{
+		"name": "Cabillaud 4 portions panées",
+		"code": "3222471751039",
+		"footprint": 4.25
+	},
+	{
+		"name": "Pâte à pizza fine et ronde",
+		"code": "3222473041725",
+		"footprint": 3.65
+	},
+	{
+		"name": "Jambon de Bayonne",
+		"code": "3222474215545",
+		"footprint": 12.85
+	},
+	{
+		"name": "Sardines à la sauce tomate",
+		"code": "3222472577225",
+		"footprint": 3.95
+	},
+	{
+		"name": "Riz & ble complet - nature",
+		"code": "3222474347192",
+		"footprint": 4.85
+	},
+	{
+		"name": "10 pains au lait aux pépites de chocolat au lait",
+		"code": "3222472262961",
+		"footprint": 3.25
+	},
+	{
+		"name": "Val d'automne",
+		"code": "3222472118800",
+		"footprint": 10.65
+	},
+	{
+		"name": "6 Oeufs frais datés du jour de ponte Très Gros",
+		"code": "3222472775195",
+		"footprint": 0.084
+	},
+	{
+		"name": "Mini Knacks",
+		"code": "3222472788430",
+		"footprint": 8.35
+	},
+	{
+		"name": "Gratin dauphinois au jambon",
+		"code": "3222473683802",
+		"footprint": 6.15
+	},
+	{
+		"name": "Sirop de Fraise",
+		"code": "3222471018798",
+		"footprint": 1.3
+	},
+	{
+		"name": "100% Pur Jus Orange –",
+		"code": "3222471516881",
+		"footprint": 1.3
+	},
+	{
+		"name": "Pêche Abricot à l'eau de source",
+		"code": "3222473460229",
+		"footprint": 0.5
+	},
+	{
+		"name": "Limonade traditionnelle - Arôme naturel de citron- citron vert",
+		"code": "3222473937882",
+		"footprint": 1.25
+	},
+	{
+		"name": "Sardines Huile d'Olive Riche en Omega 3",
+		"code": "3222473515288",
+		"footprint": 3.4
+	},
+	{
+		"name": "Torti Cuisson Rapide 500g",
+		"code": "3222472958451",
+		"footprint": 1.85
+	},
+	{
+		"name": "Miel liquide fleurs d'oranger d'Espagne",
+		"code": "3222474624873",
+		"footprint": 1.2
+	},
+	{
+		"name": "Miel de fleurs Liquide",
+		"code": "3222472194453",
+		"footprint": 1.8
+	},
+	{
+		"name": "Compote allégée Pommes Abricots",
+		"code": "3222472861799",
+		"footprint": 0.017
+	},
+	{
+		"name": "Préparation pour flan pâtissier",
+		"code": "3222472988625",
+		"footprint": 2.15
+	},
+	{
+		"name": "Chocolat noir dessert",
+		"code": "3222471363560",
+		"footprint": 2.3
+	},
+	{
+		"name": "Biscuits Matin Miel et Pépites de Chocolat",
+		"code": "3222472767947",
+		"footprint": 2.5
+	},
+	{
+		"name": "Biscottes très pauvres en sel",
+		"code": "3222471167199",
+		"footprint": 0.047
+	},
+	{
+		"name": "Tresse au beurre",
+		"code": "7616700002652",
+		"footprint": 0.32299999999999995
+	},
+	{
+		"name": "Burger du futur",
+		"code": "7104388500916",
+		"footprint": 2.8
+	},
+	{
+		"name": "Ruffle - Strong Asas de Frango Picantes",
+		"code": "8410199017079",
+		"footprint": 1.7
+	},
+	{
+		"name": "Truite Fumée Pyrénées",
+		"code": "3392780007025",
+		"footprint": 8.28
+	},
+	{
+		"name": "Yogourt Rhubarbe/Vanille",
+		"code": "22016256",
+		"footprint": 1.9340000000000002
+	},
+	{
+		"name": "Carne de porc în suc propriu",
+		"code": "5941341000142",
+		"footprint": 3
+	},
+	{
+		"name": "100% jus d'orange",
+		"code": "7613269260622",
+		"footprint": 1.2790000000000001
+	},
+	{
+		"name": "Farine de blé blanche pâtissière type 45",
+		"code": "3347431045314",
+		"footprint": 0.19
+	},
+	{
+		"name": "Lait doux & fondant",
+		"code": "3700214610022",
+		"footprint": 2.73
+	},
+	{
+		"name": "Noir intense dégustation",
+		"code": "3700214610015",
+		"footprint": 1.6
+	},
+	{
+		"name": "Léger Frites au four",
+		"code": "7613269179528",
+		"footprint": 1.212
+	},
+	{
+		"name": "Pommes frites",
+		"code": "7616800818320",
+		"footprint": 3.11
+	},
+	{
+		"name": "Cookies chocolat",
+		"code": "3700214613122",
+		"footprint": 1.61
+	},
+	{
+		"name": "Cookies Nougatine",
+		"code": "3700214613139",
+		"footprint": 1.6
+	},
+	{
+		"name": "Thé vert Menthe",
+		"code": "3700214613467",
+		"footprint": 4.61
+	},
+	{
+		"name": "Café moulu pur arabica Guatémala",
+		"code": "3700214610305",
+		"footprint": 1.24
+	},
+	{
+		"name": "Pur arabica Mexique Doux & équilibré",
+		"code": "3700214610299",
+		"footprint": 1.26
+	},
+	{
+		"name": "Noir fèves de cacao",
+		"code": "3700214613108",
+		"footprint": 1.7
+	},
+	{
+		"name": "Suprême Noir Authentique",
+		"code": "7616500904842",
+		"footprint": 28.42
+	},
+	{
+		"name": "Green tea",
+		"code": "0613008722654",
+		"footprint": 0.68
+	},
+	{
+		"name": "Gnocchi caprese",
+		"code": "7617027199711",
+		"footprint": 2.9560000000000004
+	},
+	{
+		"name": "Galettes",
+		"code": "3410280049168",
+		"footprint": 1.9
+	},
+	{
+		"name": "Pâte brisée",
+		"code": "3222472629511",
+		"footprint": 3.45
+	},
+	{
+		"name": "Modifast",
+		"code": "3175681847569",
+		"footprint": 0.55
+	},
+	{
+		"name": "Truite fumée Capaccio au Poivre de Sichuan",
+		"code": "3392780001641",
+		"footprint": 8.28
+	},
+	{
+		"name": "Chocolat au lait familial 3x100g Casino",
+		"code": "3222471363676",
+		"footprint": 6.55
+	},
+	{
+		"name": "Jus de pomme",
+		"code": "3350031523199",
+		"footprint": 0.6994
+	},
+	{
+		"name": "Cheveux d'Ange (Al dente 3 min.)",
+		"code": "3248650012395",
+		"footprint": 2.0236
+	},
+	{
+		"name": "Joghurt chocolat",
+		"code": "7616600706667",
+		"footprint": 0.583
+	},
+	{
+		"name": "",
+		"code": "2000000097429",
+		"footprint": 2
+	},
+	{
+		"name": "Migros, M Classic",
+		"code": "22016119",
+		"footprint": 1.9969999999999999
+	},
+	{
+		"name": "Chocolat noir",
+		"code": "3222471363539",
+		"footprint": 1.8
+	},
+	{
+		"name": "Mousse de foie nature",
+		"code": "3700337106099",
+		"footprint": 0.9
+	},
+	{
+		"name": "Yogourt Nature",
+		"code": "22138910",
+		"footprint": 0.826
+	},
+	{
+		"name": "Joghurt Drink framboise",
+		"code": "22139771",
+		"footprint": 0.708
+	},
+	{
+		"name": "Ice Coffee",
+		"code": "22139320",
+		"footprint": 1.36
+	},
+	{
+		"name": "Joghurt myrtille",
+		"code": "22138767",
+		"footprint": 0.545
+	},
+	{
+		"name": "Joghurt fraise",
+		"code": "22138743",
+		"footprint": 0.5429999999999999
+	},
+	{
+		"name": "Joghurt pêche",
+		"code": "22138736",
+		"footprint": 0.5429999999999999
+	},
+	{
+		"name": "Joghurt Léger (Nature)",
+		"code": "22138705",
+		"footprint": 0.562
+	},
+	{
+		"name": "Yogourt Nature",
+		"code": "22137555",
+		"footprint": 0.828
+	},
+	{
+		"name": "Choco Drink",
+		"code": "22087164",
+		"footprint": 0.593
+	},
+	{
+		"name": "Yogurt Mandarine",
+		"code": "22016140",
+		"footprint": 1.965
+	},
+	{
+		"name": "Jogourt Nature ferme",
+		"code": "22016065",
+		"footprint": 0.578
+	},
+	{
+		"name": "Yogourt Ananas",
+		"code": "22016072",
+		"footprint": 0.48200000000000004
+	},
+	{
+		"name": "5 boudins noirs piment",
+		"code": "0208016022041",
+		"footprint": 1
+	},
+	{
+		"name": "Boudins noirs nature",
+		"code": "0208015019813",
+		"footprint": 1
+	},
+	{
+		"name": "Saucisses fumées",
+		"code": "0221909028142",
+		"footprint": 1
+	},
+	{
+		"name": "Sarcives Impériales",
+		"code": "0271129039824",
+		"footprint": 1
+	},
+	{
+		"name": "Mini boudins noirs nature",
+		"code": "0208019018690",
+		"footprint": 1
+	},
+	{
+		"name": "",
+		"code": "2000000049820",
+		"footprint": 0.12
+	},
+	{
+		"name": "café éthiopie",
+		"code": "3700214611401",
+		"footprint": 1.2
+	},
+	{
+		"name": "Miel",
+		"code": "3425601534698",
+		"footprint": 4.28
+	},
+	{
+		"name": "Noir Menthe",
+		"code": "3700214614228",
+		"footprint": 1.62
+	},
+	{
+		"name": "Noir Zestes de Citron",
+		"code": "3700214612118",
+		"footprint": 1.77
+	},
+	{
+		"name": "Chocolat noir doux et fondant bio et équitable",
+		"code": "3700214610817",
+		"footprint": 2.73
+	},
+	{
+		"name": "Thé Vert Ceylan Bio Alter Eco",
+		"code": "3700214610183",
+		"footprint": 7.75
+	},
+	{
+		"name": "Kungsörnen Färdiggräddade Pannkakor",
+		"code": "7310130010866",
+		"footprint": 1.3
+	},
+	{
+		"name": "Oeufs durs importés",
+		"code": "7617027960304",
+		"footprint": 0.552
+	},
+	{
+		"name": "Tortellini aux épinard et à la ricotta",
+		"code": "7617027956352",
+		"footprint": 2.4819999999999998
+	},
+	{
+		"name": "Croissants Précuits au Beurre",
+		"code": "7616700114553",
+		"footprint": 0.7609999999999999
+	},
+	{
+		"name": "Yogourt Nature",
+		"code": "7616600709736",
+		"footprint": 0.556
+	},
+	{
+		"name": "Birchermüesli Yogourt",
+		"code": "7616600706315",
+		"footprint": 0.607
+	},
+	{
+		"name": "Chocolat au lait avec éclats de noisettes ",
+		"code": "7613269195443",
+		"footprint": 11.94
+	},
+	{
+		"name": "Chocolat au lait ",
+		"code": "7613269195429",
+		"footprint": 13.21
+	},
+	{
+		"name": "Séré demi-gras",
+		"code": "7610200048899",
+		"footprint": 2.7510000000000003
+	},
+	{
+		"name": "Camembert",
+		"code": "7610028091107",
+		"footprint": 1.028
+	},
+	{
+		"name": "Miel de thym",
+		"code": "3425601534063",
+		"footprint": 5.47
+	},
+	{
+		"name": "Miel liquide fleurs de France",
+		"code": "3222474471354",
+		"footprint": 0.95
+	},
+	{
+		"name": "Pavé de lieu sauce citron riz et julienne de légumes (2,4 % MG)",
+		"code": "3222474223687",
+		"footprint": 5.9
+	},
+	{
+		"name": "Saucisson sec",
+		"code": "3222474209841",
+		"footprint": 23.8
+	},
+	{
+		"name": "Coeur fondant chocolat noisette",
+		"code": "3222473530175",
+		"footprint": 4.45
+	},
+	{
+		"name": "Miel de châtaignier",
+		"code": "3425601532885",
+		"footprint": 5.37
+	},
+	{
+		"name": "Chapelure",
+		"code": "3222471018996",
+		"footprint": 2.75
+	},
+	{
+		"name": "Riz naturellement parfumé Thaï",
+		"code": "3222473039579",
+		"footprint": 5.85
+	},
+	{
+		"name": "Bœuf Bourguignon et ses Tagliatelles",
+		"code": "3222474221362",
+		"footprint": 7.7
+	},
+	{
+		"name": "Palmiers",
+		"code": "3222471018965",
+		"footprint": 3.65
+	},
+	{
+		"name": "Lait Écrémé",
+		"code": "3222471483602",
+		"footprint": 1.75
+	},
+	{
+		"name": "Huile d'olive vierge extra, extraite à froid",
+		"code": "3222472824398",
+		"footprint": 2.76
+	},
+	{
+		"name": "Pommes Noisettes",
+		"code": "3222471020814",
+		"footprint": 2.55
+	},
+	{
+		"name": "Cottage cheese",
+		"code": "7616600708111",
+		"footprint": 0.562
+	},
+	{
+		"name": "Pfeffernüsse",
+		"code": "0060569008657",
+		"footprint": 5
+	},
+	{
+		"name": "Riz long grain",
+		"code": "3222471135297",
+		"footprint": 0.138
+	},
+	{
+		"name": "Sauce Carbonara",
+		"code": "7613269260448",
+		"footprint": 4.03
+	},
+	{
+		"name": "Farfalle",
+		"code": "3350031613647",
+		"footprint": 2.0985
+	},
+	{
+		"name": "Coquillettes",
+		"code": "3248650012401",
+		"footprint": 2.0075
+	},
+	{
+		"name": "Coquillettes (Al dente 9 min.)",
+		"code": "3350031718656",
+		"footprint": 1.989
+	},
+	{
+		"name": "TERRINE AUX CHÂTAIGNES",
+		"code": "2000000074660",
+		"footprint": 0.0005
+	},
+	{
+		"name": "Terrine de Chevreuil",
+		"code": "2000000074609",
+		"footprint": 0.0005
+	},
+	{
+		"name": "Pâte à tartiner",
+		"code": "3700214610466",
+		"footprint": 1.49
+	},
+	{
+		"name": "Chocolat Blanc Nougatine Amande",
+		"code": "3700214610084",
+		"footprint": 2.51
+	},
+	{
+		"name": "Thaï",
+		"code": "3222472764793",
+		"footprint": 0.24
+	},
+	{
+		"name": "Anijsblokjes",
+		"code": "8710496350986",
+		"footprint": 0.05
+	},
+	{
+		"name": "Chips saveur poulet thym",
+		"code": "3222473245147",
+		"footprint": 3.4
+	},
+	{
+		"name": "Sirop de Citron",
+		"code": "3560070339242",
+		"footprint": 1
+	},
+	{
+		"name": "Emmental Français Râpé (29 % MG)",
+		"code": "3350030099114",
+		"footprint": 11.130547
+	},
+	{
+		"name": "Oursons",
+		"code": "3222473615612",
+		"footprint": 3.65
+	},
+	{
+		"name": "Truite fumée Pyrénées Offre exceptionnelle",
+		"code": "3392780008008",
+		"footprint": 8.28
+	},
+	{
+		"name": "Joghurt Drink Mocca",
+		"code": "7616600805322",
+		"footprint": 0.715
+	},
+	{
+		"name": "Boules Miel",
+		"code": "3222473692156",
+		"footprint": 2.65
+	},
+	{
+		"name": "Pyramides au chocolat",
+		"code": "3222474413019",
+		"footprint": 3.35
+	},
+	{
+		"name": "Lait de coco gingembre citronnelle",
+		"code": "3700214614389",
+		"footprint": 3.12
+	},
+	{
+		"name": "Minitaler",
+		"code": "2129746000001",
+		"footprint": 1.5519999999999998
+	},
+	{
+		"name": "Plateau de fromages",
+		"code": "2181121000006",
+		"footprint": 1.521
+	},
+	{
+		"name": "Bünder Bergkäse",
+		"code": "2126744000002",
+		"footprint": 1.4269999999999998
+	},
+	{
+		"name": "Tilsiter doux",
+		"code": "2141870000009",
+		"footprint": 1.4580000000000002
+	},
+	{
+		"name": "Paprika Chips",
+		"code": "7616800816302",
+		"footprint": 4.164
+	},
+	{
+		"name": "Cookies coco choco",
+		"code": "3700214613146",
+		"footprint": 1.89
+	},
+	{
+		"name": "Aiguillettes de poulet, sauce normande et son riz",
+		"code": "3222474676452",
+		"footprint": 4.95
+	},
+	{
+		"name": "Thé vert Chaï aux épices",
+		"code": "3700214614761",
+		"footprint": 5.06
+	},
+	{
+		"name": "Thé du matin",
+		"code": "3700214610428",
+		"footprint": 5.4
+	},
+	{
+		"name": "marshmallows",
+		"code": "3222473662210",
+		"footprint": 3.65
+	},
+	{
+		"name": "Thaï",
+		"code": "3222473039586",
+		"footprint": 0.14300000000000002
+	},
+	{
+		"name": "Emmental Français Est-Central IGP au lait cru (32 % MG) Grand Cru - label Rouge ",
+		"code": "3222472921530",
+		"footprint": 12.75
+	},
+	{
+		"name": "Yogourt Chocolat ferme M-Classic",
+		"code": "7610200398697",
+		"footprint": 2.674
+	},
+	{
+		"name": "Yogourt Mocca ferme M-Classic ",
+		"code": "7610200398703",
+		"footprint": 2.045
+	},
+	{
+		"name": "Chocolat Noisettes & crispies",
+		"code": "7616500020061",
+		"footprint": 11.58
+	},
+	{
+		"name": "Lentilles Vertes - Alter Eco",
+		"code": "3700214613948",
+		"footprint": 0.87
+	},
+	{
+		"name": "Filet de Poulet tranché, cuit au four, nature",
+		"code": "3222473884803",
+		"footprint": 8.55
+	},
+	{
+		"name": "Quenelles lyonnaises nature",
+		"code": "3222473479382",
+		"footprint": 6.55
+	},
+	{
+		"name": "Cranberries Céréales",
+		"code": "3700214614402",
+		"footprint": 1.95
+	},
+	{
+		"name": "Beef: Brazilian",
+		"footprint": 33
+	},
+	{
+		"name": "Beef: untrimmed, primal cuts",
+		"footprint": 23.45
+	},
+	{
+		"name": "Beef: Offal and variety meat",
+		"footprint": 10.74
+	},
+	{
+		"name": "Beef: Ground, minced meat",
+		"footprint": 23.45
+	},
+	{
+		"name": "Beef: Forcemeat products",
+		"footprint": 23.45
+	},
+	{
+		"name": "Beef: Other",
+		"footprint": 23.45
+	},
+	{
+		"name": "Poultry: boneless",
+		"footprint": 6.57
+	},
+	{
+		"name": "Poultry: comminuted",
+		"footprint": 6.57
+	},
+	{
+		"name": "Poultry: whole carcass/with bones",
+		"footprint": 5.42
+	},
+	{
+		"name": "Pig: pork",
+		"footprint": 9.3
+	},
+	{
+		"name": "Pig: gammon",
+		"footprint": 9.3
+	},
+	{
+		"name": "Pig: forcemeat products",
+		"footprint": 9.61
+	},
+	{
+		"name": "Pig: bacon",
+		"footprint": 9.3
+	},
+	{
+		"name": "Pig: other",
+		"footprint": 9.3
+	},
+	{
+		"name": "Lamb: meat untrimmed primal cuts",
+		"footprint": 24
+	},
+	{
+		"name": "Lamb: offal and variety meat",
+		"footprint": 23.97
+	},
+	{
+		"name": "Lamb: ground minced meat",
+		"footprint": 24
+	},
+	{
+		"name": "Lamb: forcemeat products",
+		"footprint": 24
+	},
+	{
+		"name": "Lamb: other",
+		"footprint": 24
+	},
+	{
+		"name": "Goat: meat",
+		"footprint": 24
+	},
+	{
+		"name": "Game: birds whole carcass",
+		"footprint": 5.42
+	},
+	{
+		"name": "Game: meat",
+		"footprint": 6.55
+	},
+	{
+		"name": "Game: Other",
+		"footprint": 10.74
+	},
+	{
+		"name": "Trout: farmed",
+		"footprint": 4.72
+	},
+	{
+		"name": "Trout: wild",
+		"footprint": 4.15
+	},
+	{
+		"name": "Flat Fish",
+		"footprint": 4.15
+	},
+	{
+		"name": "Roe",
+		"footprint": 1.48
+	},
+	{
+		"name": "Herring",
+		"footprint": 1.48
+	},
+	{
+		"name": "Sardines",
+		"footprint": 1.48
+	},
+	{
+		"name": "Seabass",
+		"footprint": 2.65
+	},
+	{
+		"name": "Tuna",
+		"footprint": 4.08
+	},
+	{
+		"name": "Salmon",
+		"footprint": 2.65
+	},
+	{
+		"name": "Mackerel",
+		"footprint": 1.07
+	},
+	{
+		"name": "Molluscs/crustaceans: shrimp",
+		"footprint": 3.85
+	},
+	{
+		"name": "Molluscs/crustaceans: scallops",
+		"footprint": 0.94
+	},
+	{
+		"name": "Molluscs/crustaceans: mussels",
+		"footprint": 0.94
+	},
+	{
+		"name": "Molluscs/crustaceans: lobster",
+		"footprint": 21.05
+	},
+	{
+		"name": "Molluscs/crustaceans: crab",
+		"footprint": 0.94
+	},
+	{
+		"name": "Molluscs/crustaceans: oysters",
+		"footprint": 0.94
+	},
+	{
+		"name": "Molluscs/crustaceans: other",
+		"footprint": 10.76
+	},
+	{
+		"name": "Cephalopods: octopus",
+		"footprint": 10.76
+	},
+	{
+		"name": "Cephalopods: squid",
+		"footprint": 10.76
+	},
+	{
+		"name": "Cephalopods: other",
+		"footprint": 10.76
+	},
+	{
+		"name": "Cod",
+		"footprint": 2.05
+	},
+	{
+		"name": "Fish: Other",
+		"footprint": 10.76
+	},
+	{
+		"name": "Quorn",
+		"footprint": 3.19
+	},
+	{
+		"name": "Tofu",
+		"footprint": 1.07
+	},
+	{
+		"name": "Cheese: processed cheese",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: ripened",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: unpasturised",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: unripened e.g, cottage cheese mozzarella",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: whey protein e.g, ricotta",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: other",
+		"footprint": 12.27
+	},
+	{
+		"name": "Milk: condensed",
+		"footprint": 1.04
+	},
+	{
+		"name": "Milk: fermented",
+		"footprint": 3.26
+	},
+	{
+		"name": "Milk: powdered",
+		"footprint": 10.7
+	},
+	{
+		"name": "Milk: fresh cattle",
+		"footprint": 1.13
+	},
+	{
+		"name": "Milk: fresh sheep and goat",
+		"footprint": 1.15
+	},
+	{
+		"name": "Milk: UHT",
+		"footprint": 1.13
+	},
+	{
+		"name": "Milk: soya",
+		"footprint": 0.35
+	},
+	{
+		"name": "Milk: nut milk",
+		"footprint": 0.4
+	},
+	{
+		"name": "Butter (dairy)",
+		"footprint": 9.79
+	},
+	{
+		"name": "Cream (dairy)",
+		"footprint": 4.71
+	},
+	{
+		"name": "Ice Cream (dairy)",
+		"footprint": 1.23
+	},
+	{
+		"name": "Margarine (dairy)",
+		"footprint": 1.18
+	},
+	{
+		"name": "Yogurt and Fromage Frais (dairy)",
+		"footprint": 2.85
+	},
+	{
+		"name": "Dairy: Other",
+		"footprint": 1.13
+	},
+	{
+		"name": "Egg",
+		"footprint": 4.77
+	},
+	{
+		"name": "Apples ",
+		"footprint": 1.05
+	},
+	{
+		"name": "Bananas",
+		"footprint": 1.15
+	},
+	{
+		"name": "Berries",
+		"footprint": 1.69
+	},
+	{
+		"name": "Citrus",
+		"footprint": 1.15
+	},
+	{
+		"name": "Figs",
+		"footprint": 1.15
+	},
+	{
+		"name": "Grapes",
+		"footprint": 1.35
+	},
+	{
+		"name": "Tropical Fruits",
+		"footprint": 1.15
+	},
+	{
+		"name": "Melons",
+		"footprint": 1.15
+	},
+	{
+		"name": "Pomegranate",
+		"footprint": 1.15
+	},
+	{
+		"name": "Rhubarb",
+		"footprint": 1.02
+	},
+	{
+		"name": "Stoned Fruits",
+		"footprint": 1.35
+	},
+	{
+		"name": "Watermelon",
+		"footprint": 1.15
+	},
+	{
+		"name": "Dried and candied fruits, nuts and seeds",
+		"footprint": 2.81
+	},
+	{
+		"name": "Fruit: Other",
+		"footprint": 1.34
+	},
+	{
+		"name": "Potatoes",
+		"footprint": 1.02
+	},
+	{
+		"name": "Roots and Tubers: other",
+		"footprint": 1.02
+	},
+	{
+		"name": "Artichoke",
+		"footprint": 1.77
+	},
+	{
+		"name": "Asparagus",
+		"footprint": 3.97
+	},
+	{
+		"name": "Aubergine",
+		"footprint": 3.97
+	},
+	{
+		"name": "Bamboo Shoot",
+		"footprint": 3.97
+	},
+	{
+		"name": "Brassicas: other",
+		"footprint": 1.77
+	},
+	{
+		"name": "Zucchini",
+		"footprint": 3.97
+	},
+	{
+		"name": "Fennel",
+		"footprint": 1.77
+	},
+	{
+		"name": "Garlic",
+		"footprint": 1.02
+	},
+	{
+		"name": "Herbs (fresh):other",
+		"footprint": 1.77
+	},
+	{
+		"name": "Leeks",
+		"footprint": 1.02
+	},
+	{
+		"name": "Onions",
+		"footprint": 1.02
+	},
+	{
+		"name": "Mushrooms",
+		"footprint": 3.97
+	},
+	{
+		"name": "Okra",
+		"footprint": 3.97
+	},
+	{
+		"name": "Olives",
+		"footprint": 0.16
+	},
+	{
+		"name": "Spinach",
+		"footprint": 1.28
+	},
+	{
+		"name": "Squash/Pumpkin",
+		"footprint": 3.97
+	},
+	{
+		"name": "Sweetcorn",
+		"footprint": 3.97
+	},
+	{
+		"name": "Truffles",
+		"footprint": 3.97
+	},
+	{
+		"name": "Pickles",
+		"footprint": 1.35
+	},
+	{
+		"name": "Purees/Spreads",
+		"footprint": 1.35
+	},
+	{
+		"name": "Vegetable: Other",
+		"footprint": 1.77
+	},
+	{
+		"name": "Avocados",
+		"footprint": 0.54
+	},
+	{
+		"name": "Chicory",
+		"footprint": 0.54
+	},
+	{
+		"name": "Cucumber",
+		"footprint": 0.46
+	},
+	{
+		"name": "Lettuce",
+		"footprint": 0.54
+	},
+	{
+		"name": "Salad Onions",
+		"footprint": 0.28
+	},
+	{
+		"name": "Tomatoes",
+		"footprint": 3.23
+	},
+	{
+		"name": "Salad: Other",
+		"footprint": 0.54
+	},
+	{
+		"name": "Couscous",
+		"footprint": 1.17
+	},
+	{
+		"name": "Gnocchi",
+		"footprint": 1.17
+	},
+	{
+		"name": "Noodles",
+		"footprint": 1.17
+	},
+	{
+		"name": "Pasta",
+		"footprint": 1.17
+	},
+	{
+		"name": "Bread",
+		"footprint": 0.91
+	},
+	{
+		"name": "Processed Carbohydrates: Other",
+		"footprint": 1.17
+	},
+	{
+		"name": "Barley",
+		"footprint": 0.78
+	},
+	{
+		"name": "Buckwheat",
+		"footprint": 0.81
+	},
+	{
+		"name": "Maize",
+		"footprint": 0.81
+	},
+	{
+		"name": "Flour",
+		"footprint": 0.96
+	},
+	{
+		"name": "Oats",
+		"footprint": 0.73
+	},
+	{
+		"name": "Quinoa",
+		"footprint": 0.81
+	},
+	{
+		"name": "Rice",
+		"footprint": 3.08
+	},
+	{
+		"name": "Rye",
+		"footprint": 0.81
+	},
+	{
+		"name": "Cassava/Tapioca",
+		"footprint": 0.96
+	},
+	{
+		"name": "Grains: Other",
+		"footprint": 0.96
+	},
+	{
+		"name": "Beans",
+		"footprint": 1.35
+	},
+	{
+		"name": "Chickpeas",
+		"footprint": 1.35
+	},
+	{
+		"name": "Lentils",
+		"footprint": 1.35
+	},
+	{
+		"name": "Soybeans",
+		"footprint": 1.46
+	},
+	{
+		"name": "Pulses/Legumes: Other",
+		"footprint": 1.35
+	},
+	{
+		"name": "Jam",
+		"footprint": 1.32
+	},
+	{
+		"name": "Honey",
+		"footprint": 1.32
+	},
+	{
+		"name": "Marmalade",
+		"footprint": 1.32
+	},
+	{
+		"name": "Nut butter",
+		"footprint": 1.32
+	},
+	{
+		"name": "Yeast extract",
+		"footprint": 0.98
+	},
+	{
+		"name": "Curds",
+		"footprint": 1.32
+	},
+	{
+		"name": "Jam/preserve: Other",
+		"footprint": 1.32
+	},
+	{
+		"name": "Chocolate",
+		"footprint": 2.96
+	},
+	{
+		"name": "Cocoa Powder",
+		"footprint": 0.52
+	},
+	{
+		"name": "Sugar",
+		"footprint": 1
+	},
+	{
+		"name": "Sweetener",
+		"footprint": 0.98
+	},
+	{
+		"name": "Syrup/treacle",
+		"footprint": 0.87
+	},
+	{
+		"name": "Sweetner: Other",
+		"footprint": 0.87
+	},
+	{
+		"name": "Wine",
+		"footprint": 0.38
+	},
+	{
+		"name": "Spirits and Liqueurs",
+		"footprint": 0.5
+	},
+	{
+		"name": "Beer and Cider",
+		"footprint": 0.45
+	},
+	{
+		"name": "Cordial",
+		"footprint": 0.36
+	},
+	{
+		"name": "Coca cola",
+		"footprint": 0.34
+	},
+	{
+		"name": "Tea",
+		"footprint": 6.42
+	},
+	{
+		"name": "Coffee",
+		"footprint": 17.72
+	},
+	{
+		"name": "Juice",
+		"footprint": 0.79
+	},
+	{
+		"name": "Water",
+		"footprint": 0.2
+	},
+	{
+		"name": "Condiments: Emulsified Sauces",
+		"footprint": 1.36
+	},
+	{
+		"name": "Condiments: Non-emulsified Sauces",
+		"footprint": 1.36
+	},
+	{
+		"name": "Chutney/Relish",
+		"footprint": 1.36
+	},
+	{
+		"name": "Salad dressing",
+		"footprint": 1.36
+	},
+	{
+		"name": "Mustard",
+		"footprint": 1.36
+	},
+	{
+		"name": "Salt",
+		"footprint": 1.36
+	},
+	{
+		"name": "Pepper",
+		"footprint": 1.36
+	},
+	{
+		"name": "Spices",
+		"footprint": 1.13
+	},
+	{
+		"name": "Herbs (dried)",
+		"footprint": 1.13
+	},
+	{
+		"name": "Animal Fat",
+		"footprint": 9.83
+	},
+	{
+		"name": "Butter",
+		"footprint": 9.82
+	},
+	{
+		"name": "Spreadable Butter",
+		"footprint": 7.55
+	},
+	{
+		"name": "Vegetable Oils",
+		"footprint": 3.67
+	},
+	{
+		"name": "Fats and oils: Other",
+		"footprint": 3.67
+	},
+	{
+		"name": "Stock",
+		"footprint": 1.36
+	},
+	{
+		"name": "Vinegar",
+		"footprint": 1.36
+	},
+	{
+		"name": "Yeast",
+		"footprint": 0.99
+	},
+	{
+		"name": "Condiment: Other",
+		"footprint": 1.36
+	},
+	{
+		"name": "Plant based meat analog",
+		"footprint": 2.29
+	},
+	{
+		"name": "Hake",
+		"footprint": 10.33
+	},
+	{
+		"name": "Megrim",
+		"footprint": 14.71
+	},
+	{
+		"name": "Turbot",
+		"footprint": 15.07
+	},
+	{
+		"name": "Sole",
+		"footprint": 21.42
+	},
+	{
+		"name": "Poultry Free Range: whole carcass/with bone",
+		"footprint": 6.33
+	},
+	{
+		"name": "Poultry Free Range: boneless meat",
+		"footprint": 7.7
+	},
+	{
+		"name": "Egg: Free Range",
+		"footprint": 5.3
+	},
+	{
+		"name": "Sweet potato",
+		"footprint": 1.02
+	},
+	{
+		"name": "Carrot",
+		"footprint": 1.02
+	},
+	{
+		"name": "Celery ",
+		"footprint": 0.54
+	},
+	{
+		"name": "Radish",
+		"footprint": 0.54
+	},
+	{
+		"name": "Parsnip",
+		"footprint": 1.02
+	},
+	{
+		"name": "Brown rice",
+		"footprint": 3.08
+	},
+	{
+		"name": "Beetroot",
+		"footprint": 0.54
+	},
+	{
+		"name": "Plant based (vegan) sausage",
+		"footprint": 2.29
+	},
+	{
+		"name": "Plant based (vegan) burger",
+		"footprint": 2.29
+	},
+	{
+		"name": "Kale",
+		"footprint": 1.77
+	},
+	{
+		"name": "Broccoli",
+		"footprint": 1.77
+	},
+	{
+		"name": "Cauliflower",
+		"footprint": 1.77
+	},
+	{
+		"name": "Chilli peppers",
+		"footprint": 3.31
+	},
+	{
+		"name": "Peppers (bell)",
+		"footprint": 3.31
+	},
+	{
+		"name": "Pears",
+		"footprint": 1.05
+	},
+	{
+		"name": "Cabbage",
+		"footprint": 1.77
+	},
+	{
+		"name": "Collard greens",
+		"footprint": 1.77
+	},
+	{
+		"name": "Rocket/arugula",
+		"footprint": 1.28
+	},
+	{
+		"name": "Basil (fresh)",
+		"footprint": 1.28
+	},
+	{
+		"name": "Corriander (fresh)",
+		"footprint": 1.28
+	},
+	{
+		"name": "Thyme (fresh)",
+		"footprint": 1.28
+	},
+	{
+		"name": "Chives (fresh)",
+		"footprint": 1.28
+	},
+	{
+		"name": "Passata",
+		"footprint": 3.23
+	},
+	{
+		"name": "Puff pastry (butter)",
+		"footprint": 5.4
+	},
+	{
+		"name": "Tinned tomatoes",
+		"footprint": 3.23
+	},
+	{
+		"name": "Puff pastry (vegan)",
+		"footprint": 2.32
+	},
+	{
+		"name": "PORK",
+		"footprint": 4.621484423
+	},
+	{
+		"name": "CHICKEN",
+		"footprint": 3.262298031
+	},
+	{
+		"name": "EGGS",
+		"footprint": 2.526441574
+	},
+	{
+		"name": "BEEF",
+		"footprint": 23.80216746
+	},
+	{
+		"name": "MILK  ",
+		"footprint": 1.36935455
+	},
+	{
+		"name": "BUTTER",
+		"footprint": 12.66705193
+	},
+	{
+		"name": "YOGURT",
+		"footprint": 1.538219779
+	},
+	{
+		"name": "CREAM",
+		"footprint": 6.469371749
+	},
+	{
+		"name": "HARD CHEESE",
+		"footprint": 12.56486777
+	},
+	{
+		"name": "DESSERT CHEESE",
+		"footprint": 8.363223794
+	},
+	{
+		"name": "CREME FRAICHE",
+		"footprint": 5.710089322
+	},
+	{
+		"name": "MILK POWDER",
+		"footprint": 11.7851491
+	},
+	{
+		"name": "SALMON",
+		"footprint": 6.065231518
+	},
+	{
+		"name": "COD",
+		"footprint": 7.29340867
+	},
+	{
+		"name": "ROE (FROM COD FISH)",
+		"footprint": 2.005864863
+	},
+	{
+		"name": "HERRING",
+		"footprint": 1.137124466
+	},
+	{
+		"name": "MACKEREL",
+		"footprint": 1.035272146
+	},
+	{
+		"name": "SAITHE",
+		"footprint": 4.900359303
+	},
+	{
+		"name": "NORTHERN PRAWN",
+		"footprint": 14.44294447
+	},
+	{
+		"name": "ALASKA POLLOCK",
+		"footprint": 3.376893088
+	},
+	{
+		"name": "RAINBOW TROUT",
+		"footprint": 6.10321773
+	},
+	{
+		"name": "PANGASIUS",
+		"footprint": 13.86612846
+	},
+	{
+		"name": "EUROPEAN PLAICE",
+		"footprint": 23.28046736
+	},
+	{
+		"name": "HOKI",
+		"footprint": 7.148932597
+	},
+	{
+		"name": "WHEAT",
+		"footprint": 1.176855587
+	},
+	{
+		"name": "RYE",
+		"footprint": 1.062139839
+	},
+	{
+		"name": "BARLEY",
+		"footprint": 1.149947423
+	},
+	{
+		"name": "OATS",
+		"footprint": 1.184860243
+	},
+	{
+		"name": "RICE",
+		"footprint": 3.579564355
+	},
+	{
+		"name": "RAPESEED OIL",
+		"footprint": 2.373003323
+	},
+	{
+		"name": "OLIVE OIL",
+		"footprint": 4.044846694
+	},
+	{
+		"name": "SUGAR",
+		"footprint": 1.523165461
+	},
+	{
+		"name": "TOMATO",
+		"footprint": 1.493989349
+	},
+	{
+		"name": "CUCUMBER",
+		"footprint": 0.734100042
+	},
+	{
+		"name": "BELL PEPPER",
+		"footprint": 2.333728229
+	},
+	{
+		"name": "ICEBERG LETTUCE",
+		"footprint": 0.322647658
+	},
+	{
+		"name": "POTATO",
+		"footprint": 0.375638513
+	},
+	{
+		"name": "CARROT",
+		"footprint": 0.298370864
+	},
+	{
+		"name": "ONION",
+		"footprint": 0.381612481
+	},
+	{
+		"name": "LEEK",
+		"footprint": 0.395561437
+	},
+	{
+		"name": "BROCCOLI",
+		"footprint": 0.627874827
+	},
+	{
+		"name": "WHITE CABBAGE",
+		"footprint": 0.359012096
+	},
+	{
+		"name": "CAULIFLOWER",
+		"footprint": 0.531403532
+	},
+	{
+		"name": "PEAS",
+		"footprint": 0.617573225
+	},
+	{
+		"name": "BEANS",
+		"footprint": 1.159890391
+	},
+	{
+		"name": "APPLE",
+		"footprint": 0.36967267
+	},
+	{
+		"name": "PEAR",
+		"footprint": 0.399295468
+	},
+	{
+		"name": "MELON",
+		"footprint": 2.141240029
+	},
+	{
+		"name": "BANANA",
+		"footprint": 0.67261454
+	},
+	{
+		"name": "ORANGE",
+		"footprint": 0.728614353
+	},
+	{
+		"name": "LEMON",
+		"footprint": 0.45637194
+	},
+	{
+		"name": "AVOCADO",
+		"footprint": 1.093448343
+	},
+	{
+		"name": "KIWIFRUIT",
+		"footprint": 0.632535203
+	},
+	{
+		"name": "STRAWBERRY",
+		"footprint": 0.73858763
+	},
+	{
+		"name": "RASPBERRY",
+		"footprint": 0.759482
+	},
+	{
+		"name": "COCOA POWDER",
+		"footprint": 4.437154929
+	},
+	{
+		"name": "COCOA BUTTER",
+		"footprint": 8.786018448
+	},
+	{
+		"name": "COFFEE",
+		"footprint": 6.406229764
+	},
+	{
+		"name": "PASTA",
+		"footprint": 1.76571932
+	},
+	{
+		"name": "BUNS",
+		"footprint": 1.447764517
+	},
+	{
+		"name": "BISCUITS",
+		"footprint": 1.104275024
+	},
+	{
+		"name": "PASTRY",
+		"footprint": 1.409857661
+	},
+	{
+		"name": "RUSKS",
+		"footprint": 1.433832349
+	},
+	{
+		"name": "WHEAT BREAD",
+		"footprint": 1.02194756
+	},
+	{
+		"name": "WHEAT-RYE BREAD",
+		"footprint": 1.043072702
+	},
+	{
+		"name": "CRISP BREAD",
+		"footprint": 1.114347356
+	},
+	{
+		"name": "FOLLOW-UP FORMULA",
+		"footprint": 3.658963493
+	},
+	{
+		"name": "MARGARINE",
+		"footprint": 2.417283753
+	},
+	{
+		"name": "LOW FAT MARGARINE",
+		"footprint": 1.272289192
+	},
+	{
+		"name": "COCOA DRINK POWDER",
+		"footprint": 2.303386124
+	},
+	{
+		"name": "SODA",
+		"footprint": 0.40582548
+	},
+	{
+		"name": "CIDER (NON-ALCOHOLIC)",
+		"footprint": 0.477932217
+	},
+	{
+		"name": "BEER (REGULAR)",
+		"footprint": 0.461326355
+	},
+	{
+		"name": "MINERAL WATER",
+		"footprint": 0.277240578
+	},
+	{
+		"name": "JUICE (AVERAGE)",
+		"footprint": 1.239805883
+	},
+	{
+		"name": "ORANGE JUICE",
+		"footprint": 1.687789075
+	},
+	{
+		"name": "APPLE JUICE",
+		"footprint": 0.791822691
+	},
+	{
+		"name": "SQUASH DRINK",
+		"footprint": 1.27361569
+	},
+	{
+		"name": "STRAWBERRY SQUASH DRINK",
+		"footprint": 1.244180357
+	},
+	{
+		"name": "RASPBERRY SQUASH DRINK",
+		"footprint": 1.303051023
+	},
+	{
+		"name": "CHOCOLATE",
+		"footprint": 6.856879104
+	},
+	{
+		"name": "POTATO CRISPS",
+		"footprint": 2.89291368
+	},
+	{
+		"name": "ICE CREAM",
+		"footprint": 4.281456556
+	}
+]
