@@ -18,6 +18,25 @@ function parseCSV(filePath, params = {}) {
 ;(async function() {
 	let results = []
 
+	//https://github.com/nw-hacks2020/c-o-you/blob/master/carbon_data/c-o-you_foods.csv
+	//https://raw.githubusercontent.com/nw-hacks2020/c-o-you/master/carbon_data/c-o-you_foods.csv
+	//NOTE: Currently, CSV has no header. Add name,footprint at top
+	let cuFoods = await parseCSV(path.join(__dirname, "data", "c-o-you_foods.csv"))
+	cuFoods.forEach((obj) => {obj.footprint = Number(obj.footprint)})
+	results = results.concat(cuFoods) //TODO: Normalize units. These are kg CO2e per kg, to retail gate.
+
+
+	//https://www.vegansociety.com/sites/default/files/uploads/Campaigns/PlateUp/ingredients-updated-3.json
+	let file = await fs.promises.readFile(path.join(__dirname, "data", "ingredients-updated-3.json"), {encoding: "utf-8"})
+	let veganSociety = await JSON.parse(file)
+	veganSociety.forEach((item) => {
+		results.push({
+			name: item.FOOD,
+			footprint: item.Unknown
+		})
+	})
+
+
 	//https://world.openfoodfacts.org/label/carbon-footprint
 	//Search for the label "carbon-footprint" with advanced search instead, in order to get the download button.
 	//Direct link doesn't show download.
@@ -34,22 +53,6 @@ function parseCSV(filePath, params = {}) {
 	})
 	results = results.concat(foodFacts)
 
-	//https://www.vegansociety.com/sites/default/files/uploads/Campaigns/PlateUp/ingredients-updated-3.json
-	let file = await fs.promises.readFile(path.join(__dirname, "data", "ingredients-updated-3.json"), {encoding: "utf-8"})
-	let veganSociety = await JSON.parse(file)
-	veganSociety.forEach((item) => {
-		results.push({
-			name: item.FOOD,
-			footprint: item.Unknown
-		})
-	})
-
-	//https://github.com/nw-hacks2020/c-o-you/blob/master/carbon_data/c-o-you_foods.csv
-	//https://raw.githubusercontent.com/nw-hacks2020/c-o-you/master/carbon_data/c-o-you_foods.csv
-	//NOTE: Currently, CSV has no header. Add name,footprint at top
-	let cuFoods = await parseCSV(path.join(__dirname, "data", "c-o-you_foods.csv"))
-	cuFoods.forEach((obj) => {obj.footprint = Number(obj.footprint)})
-	results = results.concat(cuFoods) //TODO: Normalize units. These are kg CO2e per kg, to retail gate.
 
 	console.log(results)
 	fs.writeFileSync(path.join(__dirname, "data", "processed.json"), JSON.stringify(results, null, "\t"))

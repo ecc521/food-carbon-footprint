@@ -1,5 +1,1165 @@
 [
 	{
+		"name": "PORK",
+		"footprint": 4.621484423
+	},
+	{
+		"name": "CHICKEN",
+		"footprint": 3.262298031
+	},
+	{
+		"name": "EGGS",
+		"footprint": 2.526441574
+	},
+	{
+		"name": "BEEF",
+		"footprint": 23.80216746
+	},
+	{
+		"name": "MILK  ",
+		"footprint": 1.36935455
+	},
+	{
+		"name": "BUTTER",
+		"footprint": 12.66705193
+	},
+	{
+		"name": "YOGURT",
+		"footprint": 1.538219779
+	},
+	{
+		"name": "CREAM",
+		"footprint": 6.469371749
+	},
+	{
+		"name": "HARD CHEESE",
+		"footprint": 12.56486777
+	},
+	{
+		"name": "DESSERT CHEESE",
+		"footprint": 8.363223794
+	},
+	{
+		"name": "CREME FRAICHE",
+		"footprint": 5.710089322
+	},
+	{
+		"name": "MILK POWDER",
+		"footprint": 11.7851491
+	},
+	{
+		"name": "SALMON",
+		"footprint": 6.065231518
+	},
+	{
+		"name": "COD",
+		"footprint": 7.29340867
+	},
+	{
+		"name": "ROE (FROM COD FISH)",
+		"footprint": 2.005864863
+	},
+	{
+		"name": "HERRING",
+		"footprint": 1.137124466
+	},
+	{
+		"name": "MACKEREL",
+		"footprint": 1.035272146
+	},
+	{
+		"name": "SAITHE",
+		"footprint": 4.900359303
+	},
+	{
+		"name": "NORTHERN PRAWN",
+		"footprint": 14.44294447
+	},
+	{
+		"name": "ALASKA POLLOCK",
+		"footprint": 3.376893088
+	},
+	{
+		"name": "RAINBOW TROUT",
+		"footprint": 6.10321773
+	},
+	{
+		"name": "PANGASIUS",
+		"footprint": 13.86612846
+	},
+	{
+		"name": "EUROPEAN PLAICE",
+		"footprint": 23.28046736
+	},
+	{
+		"name": "HOKI",
+		"footprint": 7.148932597
+	},
+	{
+		"name": "WHEAT",
+		"footprint": 1.176855587
+	},
+	{
+		"name": "RYE",
+		"footprint": 1.062139839
+	},
+	{
+		"name": "BARLEY",
+		"footprint": 1.149947423
+	},
+	{
+		"name": "OATS",
+		"footprint": 1.184860243
+	},
+	{
+		"name": "RICE",
+		"footprint": 3.579564355
+	},
+	{
+		"name": "RAPESEED OIL",
+		"footprint": 2.373003323
+	},
+	{
+		"name": "OLIVE OIL",
+		"footprint": 4.044846694
+	},
+	{
+		"name": "SUGAR",
+		"footprint": 1.523165461
+	},
+	{
+		"name": "TOMATO",
+		"footprint": 1.493989349
+	},
+	{
+		"name": "CUCUMBER",
+		"footprint": 0.734100042
+	},
+	{
+		"name": "BELL PEPPER",
+		"footprint": 2.333728229
+	},
+	{
+		"name": "ICEBERG LETTUCE",
+		"footprint": 0.322647658
+	},
+	{
+		"name": "POTATO",
+		"footprint": 0.375638513
+	},
+	{
+		"name": "CARROT",
+		"footprint": 0.298370864
+	},
+	{
+		"name": "ONION",
+		"footprint": 0.381612481
+	},
+	{
+		"name": "LEEK",
+		"footprint": 0.395561437
+	},
+	{
+		"name": "BROCCOLI",
+		"footprint": 0.627874827
+	},
+	{
+		"name": "WHITE CABBAGE",
+		"footprint": 0.359012096
+	},
+	{
+		"name": "CAULIFLOWER",
+		"footprint": 0.531403532
+	},
+	{
+		"name": "PEAS",
+		"footprint": 0.617573225
+	},
+	{
+		"name": "BEANS",
+		"footprint": 1.159890391
+	},
+	{
+		"name": "APPLE",
+		"footprint": 0.36967267
+	},
+	{
+		"name": "PEAR",
+		"footprint": 0.399295468
+	},
+	{
+		"name": "MELON",
+		"footprint": 2.141240029
+	},
+	{
+		"name": "BANANA",
+		"footprint": 0.67261454
+	},
+	{
+		"name": "ORANGE",
+		"footprint": 0.728614353
+	},
+	{
+		"name": "LEMON",
+		"footprint": 0.45637194
+	},
+	{
+		"name": "AVOCADO",
+		"footprint": 1.093448343
+	},
+	{
+		"name": "KIWIFRUIT",
+		"footprint": 0.632535203
+	},
+	{
+		"name": "STRAWBERRY",
+		"footprint": 0.73858763
+	},
+	{
+		"name": "RASPBERRY",
+		"footprint": 0.759482
+	},
+	{
+		"name": "COCOA POWDER",
+		"footprint": 4.437154929
+	},
+	{
+		"name": "COCOA BUTTER",
+		"footprint": 8.786018448
+	},
+	{
+		"name": "COFFEE",
+		"footprint": 6.406229764
+	},
+	{
+		"name": "PASTA",
+		"footprint": 1.76571932
+	},
+	{
+		"name": "BUNS",
+		"footprint": 1.447764517
+	},
+	{
+		"name": "BISCUITS",
+		"footprint": 1.104275024
+	},
+	{
+		"name": "PASTRY",
+		"footprint": 1.409857661
+	},
+	{
+		"name": "RUSKS",
+		"footprint": 1.433832349
+	},
+	{
+		"name": "WHEAT BREAD",
+		"footprint": 1.02194756
+	},
+	{
+		"name": "WHEAT-RYE BREAD",
+		"footprint": 1.043072702
+	},
+	{
+		"name": "CRISP BREAD",
+		"footprint": 1.114347356
+	},
+	{
+		"name": "FOLLOW-UP FORMULA",
+		"footprint": 3.658963493
+	},
+	{
+		"name": "MARGARINE",
+		"footprint": 2.417283753
+	},
+	{
+		"name": "LOW FAT MARGARINE",
+		"footprint": 1.272289192
+	},
+	{
+		"name": "COCOA DRINK POWDER",
+		"footprint": 2.303386124
+	},
+	{
+		"name": "SODA",
+		"footprint": 0.40582548
+	},
+	{
+		"name": "CIDER (NON-ALCOHOLIC)",
+		"footprint": 0.477932217
+	},
+	{
+		"name": "BEER (REGULAR)",
+		"footprint": 0.461326355
+	},
+	{
+		"name": "MINERAL WATER",
+		"footprint": 0.277240578
+	},
+	{
+		"name": "JUICE (AVERAGE)",
+		"footprint": 1.239805883
+	},
+	{
+		"name": "ORANGE JUICE",
+		"footprint": 1.687789075
+	},
+	{
+		"name": "APPLE JUICE",
+		"footprint": 0.791822691
+	},
+	{
+		"name": "SQUASH DRINK",
+		"footprint": 1.27361569
+	},
+	{
+		"name": "STRAWBERRY SQUASH DRINK",
+		"footprint": 1.244180357
+	},
+	{
+		"name": "RASPBERRY SQUASH DRINK",
+		"footprint": 1.303051023
+	},
+	{
+		"name": "CHOCOLATE",
+		"footprint": 6.856879104
+	},
+	{
+		"name": "POTATO CRISPS",
+		"footprint": 2.89291368
+	},
+	{
+		"name": "ICE CREAM",
+		"footprint": 4.281456556
+	},
+	{
+		"name": "Beef: Brazilian",
+		"footprint": 33
+	},
+	{
+		"name": "Beef: untrimmed, primal cuts",
+		"footprint": 23.45
+	},
+	{
+		"name": "Beef: Offal and variety meat",
+		"footprint": 10.74
+	},
+	{
+		"name": "Beef: Ground, minced meat",
+		"footprint": 23.45
+	},
+	{
+		"name": "Beef: Forcemeat products",
+		"footprint": 23.45
+	},
+	{
+		"name": "Beef: Other",
+		"footprint": 23.45
+	},
+	{
+		"name": "Poultry: boneless",
+		"footprint": 6.57
+	},
+	{
+		"name": "Poultry: comminuted",
+		"footprint": 6.57
+	},
+	{
+		"name": "Poultry: whole carcass/with bones",
+		"footprint": 5.42
+	},
+	{
+		"name": "Pig: pork",
+		"footprint": 9.3
+	},
+	{
+		"name": "Pig: gammon",
+		"footprint": 9.3
+	},
+	{
+		"name": "Pig: forcemeat products",
+		"footprint": 9.61
+	},
+	{
+		"name": "Pig: bacon",
+		"footprint": 9.3
+	},
+	{
+		"name": "Pig: other",
+		"footprint": 9.3
+	},
+	{
+		"name": "Lamb: meat untrimmed primal cuts",
+		"footprint": 24
+	},
+	{
+		"name": "Lamb: offal and variety meat",
+		"footprint": 23.97
+	},
+	{
+		"name": "Lamb: ground minced meat",
+		"footprint": 24
+	},
+	{
+		"name": "Lamb: forcemeat products",
+		"footprint": 24
+	},
+	{
+		"name": "Lamb: other",
+		"footprint": 24
+	},
+	{
+		"name": "Goat: meat",
+		"footprint": 24
+	},
+	{
+		"name": "Game: birds whole carcass",
+		"footprint": 5.42
+	},
+	{
+		"name": "Game: meat",
+		"footprint": 6.55
+	},
+	{
+		"name": "Game: Other",
+		"footprint": 10.74
+	},
+	{
+		"name": "Trout: farmed",
+		"footprint": 4.72
+	},
+	{
+		"name": "Trout: wild",
+		"footprint": 4.15
+	},
+	{
+		"name": "Flat Fish",
+		"footprint": 4.15
+	},
+	{
+		"name": "Roe",
+		"footprint": 1.48
+	},
+	{
+		"name": "Herring",
+		"footprint": 1.48
+	},
+	{
+		"name": "Sardines",
+		"footprint": 1.48
+	},
+	{
+		"name": "Seabass",
+		"footprint": 2.65
+	},
+	{
+		"name": "Tuna",
+		"footprint": 4.08
+	},
+	{
+		"name": "Salmon",
+		"footprint": 2.65
+	},
+	{
+		"name": "Mackerel",
+		"footprint": 1.07
+	},
+	{
+		"name": "Molluscs/crustaceans: shrimp",
+		"footprint": 3.85
+	},
+	{
+		"name": "Molluscs/crustaceans: scallops",
+		"footprint": 0.94
+	},
+	{
+		"name": "Molluscs/crustaceans: mussels",
+		"footprint": 0.94
+	},
+	{
+		"name": "Molluscs/crustaceans: lobster",
+		"footprint": 21.05
+	},
+	{
+		"name": "Molluscs/crustaceans: crab",
+		"footprint": 0.94
+	},
+	{
+		"name": "Molluscs/crustaceans: oysters",
+		"footprint": 0.94
+	},
+	{
+		"name": "Molluscs/crustaceans: other",
+		"footprint": 10.76
+	},
+	{
+		"name": "Cephalopods: octopus",
+		"footprint": 10.76
+	},
+	{
+		"name": "Cephalopods: squid",
+		"footprint": 10.76
+	},
+	{
+		"name": "Cephalopods: other",
+		"footprint": 10.76
+	},
+	{
+		"name": "Cod",
+		"footprint": 2.05
+	},
+	{
+		"name": "Fish: Other",
+		"footprint": 10.76
+	},
+	{
+		"name": "Quorn",
+		"footprint": 3.19
+	},
+	{
+		"name": "Tofu",
+		"footprint": 1.07
+	},
+	{
+		"name": "Cheese: processed cheese",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: ripened",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: unpasturised",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: unripened e.g, cottage cheese mozzarella",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: whey protein e.g, ricotta",
+		"footprint": 12.27
+	},
+	{
+		"name": "Cheese: other",
+		"footprint": 12.27
+	},
+	{
+		"name": "Milk: condensed",
+		"footprint": 1.04
+	},
+	{
+		"name": "Milk: fermented",
+		"footprint": 3.26
+	},
+	{
+		"name": "Milk: powdered",
+		"footprint": 10.7
+	},
+	{
+		"name": "Milk: fresh cattle",
+		"footprint": 1.13
+	},
+	{
+		"name": "Milk: fresh sheep and goat",
+		"footprint": 1.15
+	},
+	{
+		"name": "Milk: UHT",
+		"footprint": 1.13
+	},
+	{
+		"name": "Milk: soya",
+		"footprint": 0.35
+	},
+	{
+		"name": "Milk: nut milk",
+		"footprint": 0.4
+	},
+	{
+		"name": "Butter (dairy)",
+		"footprint": 9.79
+	},
+	{
+		"name": "Cream (dairy)",
+		"footprint": 4.71
+	},
+	{
+		"name": "Ice Cream (dairy)",
+		"footprint": 1.23
+	},
+	{
+		"name": "Margarine (dairy)",
+		"footprint": 1.18
+	},
+	{
+		"name": "Yogurt and Fromage Frais (dairy)",
+		"footprint": 2.85
+	},
+	{
+		"name": "Dairy: Other",
+		"footprint": 1.13
+	},
+	{
+		"name": "Egg",
+		"footprint": 4.77
+	},
+	{
+		"name": "Apples ",
+		"footprint": 1.05
+	},
+	{
+		"name": "Bananas",
+		"footprint": 1.15
+	},
+	{
+		"name": "Berries",
+		"footprint": 1.69
+	},
+	{
+		"name": "Citrus",
+		"footprint": 1.15
+	},
+	{
+		"name": "Figs",
+		"footprint": 1.15
+	},
+	{
+		"name": "Grapes",
+		"footprint": 1.35
+	},
+	{
+		"name": "Tropical Fruits",
+		"footprint": 1.15
+	},
+	{
+		"name": "Melons",
+		"footprint": 1.15
+	},
+	{
+		"name": "Pomegranate",
+		"footprint": 1.15
+	},
+	{
+		"name": "Rhubarb",
+		"footprint": 1.02
+	},
+	{
+		"name": "Stoned Fruits",
+		"footprint": 1.35
+	},
+	{
+		"name": "Watermelon",
+		"footprint": 1.15
+	},
+	{
+		"name": "Dried and candied fruits, nuts and seeds",
+		"footprint": 2.81
+	},
+	{
+		"name": "Fruit: Other",
+		"footprint": 1.34
+	},
+	{
+		"name": "Potatoes",
+		"footprint": 1.02
+	},
+	{
+		"name": "Roots and Tubers: other",
+		"footprint": 1.02
+	},
+	{
+		"name": "Artichoke",
+		"footprint": 1.77
+	},
+	{
+		"name": "Asparagus",
+		"footprint": 3.97
+	},
+	{
+		"name": "Aubergine",
+		"footprint": 3.97
+	},
+	{
+		"name": "Bamboo Shoot",
+		"footprint": 3.97
+	},
+	{
+		"name": "Brassicas: other",
+		"footprint": 1.77
+	},
+	{
+		"name": "Zucchini",
+		"footprint": 3.97
+	},
+	{
+		"name": "Fennel",
+		"footprint": 1.77
+	},
+	{
+		"name": "Garlic",
+		"footprint": 1.02
+	},
+	{
+		"name": "Herbs (fresh):other",
+		"footprint": 1.77
+	},
+	{
+		"name": "Leeks",
+		"footprint": 1.02
+	},
+	{
+		"name": "Onions",
+		"footprint": 1.02
+	},
+	{
+		"name": "Mushrooms",
+		"footprint": 3.97
+	},
+	{
+		"name": "Okra",
+		"footprint": 3.97
+	},
+	{
+		"name": "Olives",
+		"footprint": 0.16
+	},
+	{
+		"name": "Spinach",
+		"footprint": 1.28
+	},
+	{
+		"name": "Squash/Pumpkin",
+		"footprint": 3.97
+	},
+	{
+		"name": "Sweetcorn",
+		"footprint": 3.97
+	},
+	{
+		"name": "Truffles",
+		"footprint": 3.97
+	},
+	{
+		"name": "Pickles",
+		"footprint": 1.35
+	},
+	{
+		"name": "Purees/Spreads",
+		"footprint": 1.35
+	},
+	{
+		"name": "Vegetable: Other",
+		"footprint": 1.77
+	},
+	{
+		"name": "Avocados",
+		"footprint": 0.54
+	},
+	{
+		"name": "Chicory",
+		"footprint": 0.54
+	},
+	{
+		"name": "Cucumber",
+		"footprint": 0.46
+	},
+	{
+		"name": "Lettuce",
+		"footprint": 0.54
+	},
+	{
+		"name": "Salad Onions",
+		"footprint": 0.28
+	},
+	{
+		"name": "Tomatoes",
+		"footprint": 3.23
+	},
+	{
+		"name": "Salad: Other",
+		"footprint": 0.54
+	},
+	{
+		"name": "Couscous",
+		"footprint": 1.17
+	},
+	{
+		"name": "Gnocchi",
+		"footprint": 1.17
+	},
+	{
+		"name": "Noodles",
+		"footprint": 1.17
+	},
+	{
+		"name": "Pasta",
+		"footprint": 1.17
+	},
+	{
+		"name": "Bread",
+		"footprint": 0.91
+	},
+	{
+		"name": "Processed Carbohydrates: Other",
+		"footprint": 1.17
+	},
+	{
+		"name": "Barley",
+		"footprint": 0.78
+	},
+	{
+		"name": "Buckwheat",
+		"footprint": 0.81
+	},
+	{
+		"name": "Maize",
+		"footprint": 0.81
+	},
+	{
+		"name": "Flour",
+		"footprint": 0.96
+	},
+	{
+		"name": "Oats",
+		"footprint": 0.73
+	},
+	{
+		"name": "Quinoa",
+		"footprint": 0.81
+	},
+	{
+		"name": "Rice",
+		"footprint": 3.08
+	},
+	{
+		"name": "Rye",
+		"footprint": 0.81
+	},
+	{
+		"name": "Cassava/Tapioca",
+		"footprint": 0.96
+	},
+	{
+		"name": "Grains: Other",
+		"footprint": 0.96
+	},
+	{
+		"name": "Beans",
+		"footprint": 1.35
+	},
+	{
+		"name": "Chickpeas",
+		"footprint": 1.35
+	},
+	{
+		"name": "Lentils",
+		"footprint": 1.35
+	},
+	{
+		"name": "Soybeans",
+		"footprint": 1.46
+	},
+	{
+		"name": "Pulses/Legumes: Other",
+		"footprint": 1.35
+	},
+	{
+		"name": "Jam",
+		"footprint": 1.32
+	},
+	{
+		"name": "Honey",
+		"footprint": 1.32
+	},
+	{
+		"name": "Marmalade",
+		"footprint": 1.32
+	},
+	{
+		"name": "Nut butter",
+		"footprint": 1.32
+	},
+	{
+		"name": "Yeast extract",
+		"footprint": 0.98
+	},
+	{
+		"name": "Curds",
+		"footprint": 1.32
+	},
+	{
+		"name": "Jam/preserve: Other",
+		"footprint": 1.32
+	},
+	{
+		"name": "Chocolate",
+		"footprint": 2.96
+	},
+	{
+		"name": "Cocoa Powder",
+		"footprint": 0.52
+	},
+	{
+		"name": "Sugar",
+		"footprint": 1
+	},
+	{
+		"name": "Sweetener",
+		"footprint": 0.98
+	},
+	{
+		"name": "Syrup/treacle",
+		"footprint": 0.87
+	},
+	{
+		"name": "Sweetner: Other",
+		"footprint": 0.87
+	},
+	{
+		"name": "Wine",
+		"footprint": 0.38
+	},
+	{
+		"name": "Spirits and Liqueurs",
+		"footprint": 0.5
+	},
+	{
+		"name": "Beer and Cider",
+		"footprint": 0.45
+	},
+	{
+		"name": "Cordial",
+		"footprint": 0.36
+	},
+	{
+		"name": "Coca cola",
+		"footprint": 0.34
+	},
+	{
+		"name": "Tea",
+		"footprint": 6.42
+	},
+	{
+		"name": "Coffee",
+		"footprint": 17.72
+	},
+	{
+		"name": "Juice",
+		"footprint": 0.79
+	},
+	{
+		"name": "Water",
+		"footprint": 0.2
+	},
+	{
+		"name": "Condiments: Emulsified Sauces",
+		"footprint": 1.36
+	},
+	{
+		"name": "Condiments: Non-emulsified Sauces",
+		"footprint": 1.36
+	},
+	{
+		"name": "Chutney/Relish",
+		"footprint": 1.36
+	},
+	{
+		"name": "Salad dressing",
+		"footprint": 1.36
+	},
+	{
+		"name": "Mustard",
+		"footprint": 1.36
+	},
+	{
+		"name": "Salt",
+		"footprint": 1.36
+	},
+	{
+		"name": "Pepper",
+		"footprint": 1.36
+	},
+	{
+		"name": "Spices",
+		"footprint": 1.13
+	},
+	{
+		"name": "Herbs (dried)",
+		"footprint": 1.13
+	},
+	{
+		"name": "Animal Fat",
+		"footprint": 9.83
+	},
+	{
+		"name": "Butter",
+		"footprint": 9.82
+	},
+	{
+		"name": "Spreadable Butter",
+		"footprint": 7.55
+	},
+	{
+		"name": "Vegetable Oils",
+		"footprint": 3.67
+	},
+	{
+		"name": "Fats and oils: Other",
+		"footprint": 3.67
+	},
+	{
+		"name": "Stock",
+		"footprint": 1.36
+	},
+	{
+		"name": "Vinegar",
+		"footprint": 1.36
+	},
+	{
+		"name": "Yeast",
+		"footprint": 0.99
+	},
+	{
+		"name": "Condiment: Other",
+		"footprint": 1.36
+	},
+	{
+		"name": "Plant based meat analog",
+		"footprint": 2.29
+	},
+	{
+		"name": "Hake",
+		"footprint": 10.33
+	},
+	{
+		"name": "Megrim",
+		"footprint": 14.71
+	},
+	{
+		"name": "Turbot",
+		"footprint": 15.07
+	},
+	{
+		"name": "Sole",
+		"footprint": 21.42
+	},
+	{
+		"name": "Poultry Free Range: whole carcass/with bone",
+		"footprint": 6.33
+	},
+	{
+		"name": "Poultry Free Range: boneless meat",
+		"footprint": 7.7
+	},
+	{
+		"name": "Egg: Free Range",
+		"footprint": 5.3
+	},
+	{
+		"name": "Sweet potato",
+		"footprint": 1.02
+	},
+	{
+		"name": "Carrot",
+		"footprint": 1.02
+	},
+	{
+		"name": "Celery ",
+		"footprint": 0.54
+	},
+	{
+		"name": "Radish",
+		"footprint": 0.54
+	},
+	{
+		"name": "Parsnip",
+		"footprint": 1.02
+	},
+	{
+		"name": "Brown rice",
+		"footprint": 3.08
+	},
+	{
+		"name": "Beetroot",
+		"footprint": 0.54
+	},
+	{
+		"name": "Plant based (vegan) sausage",
+		"footprint": 2.29
+	},
+	{
+		"name": "Plant based (vegan) burger",
+		"footprint": 2.29
+	},
+	{
+		"name": "Kale",
+		"footprint": 1.77
+	},
+	{
+		"name": "Broccoli",
+		"footprint": 1.77
+	},
+	{
+		"name": "Cauliflower",
+		"footprint": 1.77
+	},
+	{
+		"name": "Chilli peppers",
+		"footprint": 3.31
+	},
+	{
+		"name": "Peppers (bell)",
+		"footprint": 3.31
+	},
+	{
+		"name": "Pears",
+		"footprint": 1.05
+	},
+	{
+		"name": "Cabbage",
+		"footprint": 1.77
+	},
+	{
+		"name": "Collard greens",
+		"footprint": 1.77
+	},
+	{
+		"name": "Rocket/arugula",
+		"footprint": 1.28
+	},
+	{
+		"name": "Basil (fresh)",
+		"footprint": 1.28
+	},
+	{
+		"name": "Corriander (fresh)",
+		"footprint": 1.28
+	},
+	{
+		"name": "Thyme (fresh)",
+		"footprint": 1.28
+	},
+	{
+		"name": "Chives (fresh)",
+		"footprint": 1.28
+	},
+	{
+		"name": "Passata",
+		"footprint": 3.23
+	},
+	{
+		"name": "Puff pastry (butter)",
+		"footprint": 5.4
+	},
+	{
+		"name": "Tinned tomatoes",
+		"footprint": 3.23
+	},
+	{
+		"name": "Puff pastry (vegan)",
+		"footprint": 2.32
+	},
+	{
 		"name": "Lardons Nature",
 		"code": "3222471125113",
 		"footprint": 9.45
@@ -1468,1165 +2628,5 @@
 		"name": "Cranberries Céréales",
 		"code": "3700214614402",
 		"footprint": 1.95
-	},
-	{
-		"name": "Beef: Brazilian",
-		"footprint": 33
-	},
-	{
-		"name": "Beef: untrimmed, primal cuts",
-		"footprint": 23.45
-	},
-	{
-		"name": "Beef: Offal and variety meat",
-		"footprint": 10.74
-	},
-	{
-		"name": "Beef: Ground, minced meat",
-		"footprint": 23.45
-	},
-	{
-		"name": "Beef: Forcemeat products",
-		"footprint": 23.45
-	},
-	{
-		"name": "Beef: Other",
-		"footprint": 23.45
-	},
-	{
-		"name": "Poultry: boneless",
-		"footprint": 6.57
-	},
-	{
-		"name": "Poultry: comminuted",
-		"footprint": 6.57
-	},
-	{
-		"name": "Poultry: whole carcass/with bones",
-		"footprint": 5.42
-	},
-	{
-		"name": "Pig: pork",
-		"footprint": 9.3
-	},
-	{
-		"name": "Pig: gammon",
-		"footprint": 9.3
-	},
-	{
-		"name": "Pig: forcemeat products",
-		"footprint": 9.61
-	},
-	{
-		"name": "Pig: bacon",
-		"footprint": 9.3
-	},
-	{
-		"name": "Pig: other",
-		"footprint": 9.3
-	},
-	{
-		"name": "Lamb: meat untrimmed primal cuts",
-		"footprint": 24
-	},
-	{
-		"name": "Lamb: offal and variety meat",
-		"footprint": 23.97
-	},
-	{
-		"name": "Lamb: ground minced meat",
-		"footprint": 24
-	},
-	{
-		"name": "Lamb: forcemeat products",
-		"footprint": 24
-	},
-	{
-		"name": "Lamb: other",
-		"footprint": 24
-	},
-	{
-		"name": "Goat: meat",
-		"footprint": 24
-	},
-	{
-		"name": "Game: birds whole carcass",
-		"footprint": 5.42
-	},
-	{
-		"name": "Game: meat",
-		"footprint": 6.55
-	},
-	{
-		"name": "Game: Other",
-		"footprint": 10.74
-	},
-	{
-		"name": "Trout: farmed",
-		"footprint": 4.72
-	},
-	{
-		"name": "Trout: wild",
-		"footprint": 4.15
-	},
-	{
-		"name": "Flat Fish",
-		"footprint": 4.15
-	},
-	{
-		"name": "Roe",
-		"footprint": 1.48
-	},
-	{
-		"name": "Herring",
-		"footprint": 1.48
-	},
-	{
-		"name": "Sardines",
-		"footprint": 1.48
-	},
-	{
-		"name": "Seabass",
-		"footprint": 2.65
-	},
-	{
-		"name": "Tuna",
-		"footprint": 4.08
-	},
-	{
-		"name": "Salmon",
-		"footprint": 2.65
-	},
-	{
-		"name": "Mackerel",
-		"footprint": 1.07
-	},
-	{
-		"name": "Molluscs/crustaceans: shrimp",
-		"footprint": 3.85
-	},
-	{
-		"name": "Molluscs/crustaceans: scallops",
-		"footprint": 0.94
-	},
-	{
-		"name": "Molluscs/crustaceans: mussels",
-		"footprint": 0.94
-	},
-	{
-		"name": "Molluscs/crustaceans: lobster",
-		"footprint": 21.05
-	},
-	{
-		"name": "Molluscs/crustaceans: crab",
-		"footprint": 0.94
-	},
-	{
-		"name": "Molluscs/crustaceans: oysters",
-		"footprint": 0.94
-	},
-	{
-		"name": "Molluscs/crustaceans: other",
-		"footprint": 10.76
-	},
-	{
-		"name": "Cephalopods: octopus",
-		"footprint": 10.76
-	},
-	{
-		"name": "Cephalopods: squid",
-		"footprint": 10.76
-	},
-	{
-		"name": "Cephalopods: other",
-		"footprint": 10.76
-	},
-	{
-		"name": "Cod",
-		"footprint": 2.05
-	},
-	{
-		"name": "Fish: Other",
-		"footprint": 10.76
-	},
-	{
-		"name": "Quorn",
-		"footprint": 3.19
-	},
-	{
-		"name": "Tofu",
-		"footprint": 1.07
-	},
-	{
-		"name": "Cheese: processed cheese",
-		"footprint": 12.27
-	},
-	{
-		"name": "Cheese: ripened",
-		"footprint": 12.27
-	},
-	{
-		"name": "Cheese: unpasturised",
-		"footprint": 12.27
-	},
-	{
-		"name": "Cheese: unripened e.g, cottage cheese mozzarella",
-		"footprint": 12.27
-	},
-	{
-		"name": "Cheese: whey protein e.g, ricotta",
-		"footprint": 12.27
-	},
-	{
-		"name": "Cheese: other",
-		"footprint": 12.27
-	},
-	{
-		"name": "Milk: condensed",
-		"footprint": 1.04
-	},
-	{
-		"name": "Milk: fermented",
-		"footprint": 3.26
-	},
-	{
-		"name": "Milk: powdered",
-		"footprint": 10.7
-	},
-	{
-		"name": "Milk: fresh cattle",
-		"footprint": 1.13
-	},
-	{
-		"name": "Milk: fresh sheep and goat",
-		"footprint": 1.15
-	},
-	{
-		"name": "Milk: UHT",
-		"footprint": 1.13
-	},
-	{
-		"name": "Milk: soya",
-		"footprint": 0.35
-	},
-	{
-		"name": "Milk: nut milk",
-		"footprint": 0.4
-	},
-	{
-		"name": "Butter (dairy)",
-		"footprint": 9.79
-	},
-	{
-		"name": "Cream (dairy)",
-		"footprint": 4.71
-	},
-	{
-		"name": "Ice Cream (dairy)",
-		"footprint": 1.23
-	},
-	{
-		"name": "Margarine (dairy)",
-		"footprint": 1.18
-	},
-	{
-		"name": "Yogurt and Fromage Frais (dairy)",
-		"footprint": 2.85
-	},
-	{
-		"name": "Dairy: Other",
-		"footprint": 1.13
-	},
-	{
-		"name": "Egg",
-		"footprint": 4.77
-	},
-	{
-		"name": "Apples ",
-		"footprint": 1.05
-	},
-	{
-		"name": "Bananas",
-		"footprint": 1.15
-	},
-	{
-		"name": "Berries",
-		"footprint": 1.69
-	},
-	{
-		"name": "Citrus",
-		"footprint": 1.15
-	},
-	{
-		"name": "Figs",
-		"footprint": 1.15
-	},
-	{
-		"name": "Grapes",
-		"footprint": 1.35
-	},
-	{
-		"name": "Tropical Fruits",
-		"footprint": 1.15
-	},
-	{
-		"name": "Melons",
-		"footprint": 1.15
-	},
-	{
-		"name": "Pomegranate",
-		"footprint": 1.15
-	},
-	{
-		"name": "Rhubarb",
-		"footprint": 1.02
-	},
-	{
-		"name": "Stoned Fruits",
-		"footprint": 1.35
-	},
-	{
-		"name": "Watermelon",
-		"footprint": 1.15
-	},
-	{
-		"name": "Dried and candied fruits, nuts and seeds",
-		"footprint": 2.81
-	},
-	{
-		"name": "Fruit: Other",
-		"footprint": 1.34
-	},
-	{
-		"name": "Potatoes",
-		"footprint": 1.02
-	},
-	{
-		"name": "Roots and Tubers: other",
-		"footprint": 1.02
-	},
-	{
-		"name": "Artichoke",
-		"footprint": 1.77
-	},
-	{
-		"name": "Asparagus",
-		"footprint": 3.97
-	},
-	{
-		"name": "Aubergine",
-		"footprint": 3.97
-	},
-	{
-		"name": "Bamboo Shoot",
-		"footprint": 3.97
-	},
-	{
-		"name": "Brassicas: other",
-		"footprint": 1.77
-	},
-	{
-		"name": "Zucchini",
-		"footprint": 3.97
-	},
-	{
-		"name": "Fennel",
-		"footprint": 1.77
-	},
-	{
-		"name": "Garlic",
-		"footprint": 1.02
-	},
-	{
-		"name": "Herbs (fresh):other",
-		"footprint": 1.77
-	},
-	{
-		"name": "Leeks",
-		"footprint": 1.02
-	},
-	{
-		"name": "Onions",
-		"footprint": 1.02
-	},
-	{
-		"name": "Mushrooms",
-		"footprint": 3.97
-	},
-	{
-		"name": "Okra",
-		"footprint": 3.97
-	},
-	{
-		"name": "Olives",
-		"footprint": 0.16
-	},
-	{
-		"name": "Spinach",
-		"footprint": 1.28
-	},
-	{
-		"name": "Squash/Pumpkin",
-		"footprint": 3.97
-	},
-	{
-		"name": "Sweetcorn",
-		"footprint": 3.97
-	},
-	{
-		"name": "Truffles",
-		"footprint": 3.97
-	},
-	{
-		"name": "Pickles",
-		"footprint": 1.35
-	},
-	{
-		"name": "Purees/Spreads",
-		"footprint": 1.35
-	},
-	{
-		"name": "Vegetable: Other",
-		"footprint": 1.77
-	},
-	{
-		"name": "Avocados",
-		"footprint": 0.54
-	},
-	{
-		"name": "Chicory",
-		"footprint": 0.54
-	},
-	{
-		"name": "Cucumber",
-		"footprint": 0.46
-	},
-	{
-		"name": "Lettuce",
-		"footprint": 0.54
-	},
-	{
-		"name": "Salad Onions",
-		"footprint": 0.28
-	},
-	{
-		"name": "Tomatoes",
-		"footprint": 3.23
-	},
-	{
-		"name": "Salad: Other",
-		"footprint": 0.54
-	},
-	{
-		"name": "Couscous",
-		"footprint": 1.17
-	},
-	{
-		"name": "Gnocchi",
-		"footprint": 1.17
-	},
-	{
-		"name": "Noodles",
-		"footprint": 1.17
-	},
-	{
-		"name": "Pasta",
-		"footprint": 1.17
-	},
-	{
-		"name": "Bread",
-		"footprint": 0.91
-	},
-	{
-		"name": "Processed Carbohydrates: Other",
-		"footprint": 1.17
-	},
-	{
-		"name": "Barley",
-		"footprint": 0.78
-	},
-	{
-		"name": "Buckwheat",
-		"footprint": 0.81
-	},
-	{
-		"name": "Maize",
-		"footprint": 0.81
-	},
-	{
-		"name": "Flour",
-		"footprint": 0.96
-	},
-	{
-		"name": "Oats",
-		"footprint": 0.73
-	},
-	{
-		"name": "Quinoa",
-		"footprint": 0.81
-	},
-	{
-		"name": "Rice",
-		"footprint": 3.08
-	},
-	{
-		"name": "Rye",
-		"footprint": 0.81
-	},
-	{
-		"name": "Cassava/Tapioca",
-		"footprint": 0.96
-	},
-	{
-		"name": "Grains: Other",
-		"footprint": 0.96
-	},
-	{
-		"name": "Beans",
-		"footprint": 1.35
-	},
-	{
-		"name": "Chickpeas",
-		"footprint": 1.35
-	},
-	{
-		"name": "Lentils",
-		"footprint": 1.35
-	},
-	{
-		"name": "Soybeans",
-		"footprint": 1.46
-	},
-	{
-		"name": "Pulses/Legumes: Other",
-		"footprint": 1.35
-	},
-	{
-		"name": "Jam",
-		"footprint": 1.32
-	},
-	{
-		"name": "Honey",
-		"footprint": 1.32
-	},
-	{
-		"name": "Marmalade",
-		"footprint": 1.32
-	},
-	{
-		"name": "Nut butter",
-		"footprint": 1.32
-	},
-	{
-		"name": "Yeast extract",
-		"footprint": 0.98
-	},
-	{
-		"name": "Curds",
-		"footprint": 1.32
-	},
-	{
-		"name": "Jam/preserve: Other",
-		"footprint": 1.32
-	},
-	{
-		"name": "Chocolate",
-		"footprint": 2.96
-	},
-	{
-		"name": "Cocoa Powder",
-		"footprint": 0.52
-	},
-	{
-		"name": "Sugar",
-		"footprint": 1
-	},
-	{
-		"name": "Sweetener",
-		"footprint": 0.98
-	},
-	{
-		"name": "Syrup/treacle",
-		"footprint": 0.87
-	},
-	{
-		"name": "Sweetner: Other",
-		"footprint": 0.87
-	},
-	{
-		"name": "Wine",
-		"footprint": 0.38
-	},
-	{
-		"name": "Spirits and Liqueurs",
-		"footprint": 0.5
-	},
-	{
-		"name": "Beer and Cider",
-		"footprint": 0.45
-	},
-	{
-		"name": "Cordial",
-		"footprint": 0.36
-	},
-	{
-		"name": "Coca cola",
-		"footprint": 0.34
-	},
-	{
-		"name": "Tea",
-		"footprint": 6.42
-	},
-	{
-		"name": "Coffee",
-		"footprint": 17.72
-	},
-	{
-		"name": "Juice",
-		"footprint": 0.79
-	},
-	{
-		"name": "Water",
-		"footprint": 0.2
-	},
-	{
-		"name": "Condiments: Emulsified Sauces",
-		"footprint": 1.36
-	},
-	{
-		"name": "Condiments: Non-emulsified Sauces",
-		"footprint": 1.36
-	},
-	{
-		"name": "Chutney/Relish",
-		"footprint": 1.36
-	},
-	{
-		"name": "Salad dressing",
-		"footprint": 1.36
-	},
-	{
-		"name": "Mustard",
-		"footprint": 1.36
-	},
-	{
-		"name": "Salt",
-		"footprint": 1.36
-	},
-	{
-		"name": "Pepper",
-		"footprint": 1.36
-	},
-	{
-		"name": "Spices",
-		"footprint": 1.13
-	},
-	{
-		"name": "Herbs (dried)",
-		"footprint": 1.13
-	},
-	{
-		"name": "Animal Fat",
-		"footprint": 9.83
-	},
-	{
-		"name": "Butter",
-		"footprint": 9.82
-	},
-	{
-		"name": "Spreadable Butter",
-		"footprint": 7.55
-	},
-	{
-		"name": "Vegetable Oils",
-		"footprint": 3.67
-	},
-	{
-		"name": "Fats and oils: Other",
-		"footprint": 3.67
-	},
-	{
-		"name": "Stock",
-		"footprint": 1.36
-	},
-	{
-		"name": "Vinegar",
-		"footprint": 1.36
-	},
-	{
-		"name": "Yeast",
-		"footprint": 0.99
-	},
-	{
-		"name": "Condiment: Other",
-		"footprint": 1.36
-	},
-	{
-		"name": "Plant based meat analog",
-		"footprint": 2.29
-	},
-	{
-		"name": "Hake",
-		"footprint": 10.33
-	},
-	{
-		"name": "Megrim",
-		"footprint": 14.71
-	},
-	{
-		"name": "Turbot",
-		"footprint": 15.07
-	},
-	{
-		"name": "Sole",
-		"footprint": 21.42
-	},
-	{
-		"name": "Poultry Free Range: whole carcass/with bone",
-		"footprint": 6.33
-	},
-	{
-		"name": "Poultry Free Range: boneless meat",
-		"footprint": 7.7
-	},
-	{
-		"name": "Egg: Free Range",
-		"footprint": 5.3
-	},
-	{
-		"name": "Sweet potato",
-		"footprint": 1.02
-	},
-	{
-		"name": "Carrot",
-		"footprint": 1.02
-	},
-	{
-		"name": "Celery ",
-		"footprint": 0.54
-	},
-	{
-		"name": "Radish",
-		"footprint": 0.54
-	},
-	{
-		"name": "Parsnip",
-		"footprint": 1.02
-	},
-	{
-		"name": "Brown rice",
-		"footprint": 3.08
-	},
-	{
-		"name": "Beetroot",
-		"footprint": 0.54
-	},
-	{
-		"name": "Plant based (vegan) sausage",
-		"footprint": 2.29
-	},
-	{
-		"name": "Plant based (vegan) burger",
-		"footprint": 2.29
-	},
-	{
-		"name": "Kale",
-		"footprint": 1.77
-	},
-	{
-		"name": "Broccoli",
-		"footprint": 1.77
-	},
-	{
-		"name": "Cauliflower",
-		"footprint": 1.77
-	},
-	{
-		"name": "Chilli peppers",
-		"footprint": 3.31
-	},
-	{
-		"name": "Peppers (bell)",
-		"footprint": 3.31
-	},
-	{
-		"name": "Pears",
-		"footprint": 1.05
-	},
-	{
-		"name": "Cabbage",
-		"footprint": 1.77
-	},
-	{
-		"name": "Collard greens",
-		"footprint": 1.77
-	},
-	{
-		"name": "Rocket/arugula",
-		"footprint": 1.28
-	},
-	{
-		"name": "Basil (fresh)",
-		"footprint": 1.28
-	},
-	{
-		"name": "Corriander (fresh)",
-		"footprint": 1.28
-	},
-	{
-		"name": "Thyme (fresh)",
-		"footprint": 1.28
-	},
-	{
-		"name": "Chives (fresh)",
-		"footprint": 1.28
-	},
-	{
-		"name": "Passata",
-		"footprint": 3.23
-	},
-	{
-		"name": "Puff pastry (butter)",
-		"footprint": 5.4
-	},
-	{
-		"name": "Tinned tomatoes",
-		"footprint": 3.23
-	},
-	{
-		"name": "Puff pastry (vegan)",
-		"footprint": 2.32
-	},
-	{
-		"name": "PORK",
-		"footprint": 4.621484423
-	},
-	{
-		"name": "CHICKEN",
-		"footprint": 3.262298031
-	},
-	{
-		"name": "EGGS",
-		"footprint": 2.526441574
-	},
-	{
-		"name": "BEEF",
-		"footprint": 23.80216746
-	},
-	{
-		"name": "MILK  ",
-		"footprint": 1.36935455
-	},
-	{
-		"name": "BUTTER",
-		"footprint": 12.66705193
-	},
-	{
-		"name": "YOGURT",
-		"footprint": 1.538219779
-	},
-	{
-		"name": "CREAM",
-		"footprint": 6.469371749
-	},
-	{
-		"name": "HARD CHEESE",
-		"footprint": 12.56486777
-	},
-	{
-		"name": "DESSERT CHEESE",
-		"footprint": 8.363223794
-	},
-	{
-		"name": "CREME FRAICHE",
-		"footprint": 5.710089322
-	},
-	{
-		"name": "MILK POWDER",
-		"footprint": 11.7851491
-	},
-	{
-		"name": "SALMON",
-		"footprint": 6.065231518
-	},
-	{
-		"name": "COD",
-		"footprint": 7.29340867
-	},
-	{
-		"name": "ROE (FROM COD FISH)",
-		"footprint": 2.005864863
-	},
-	{
-		"name": "HERRING",
-		"footprint": 1.137124466
-	},
-	{
-		"name": "MACKEREL",
-		"footprint": 1.035272146
-	},
-	{
-		"name": "SAITHE",
-		"footprint": 4.900359303
-	},
-	{
-		"name": "NORTHERN PRAWN",
-		"footprint": 14.44294447
-	},
-	{
-		"name": "ALASKA POLLOCK",
-		"footprint": 3.376893088
-	},
-	{
-		"name": "RAINBOW TROUT",
-		"footprint": 6.10321773
-	},
-	{
-		"name": "PANGASIUS",
-		"footprint": 13.86612846
-	},
-	{
-		"name": "EUROPEAN PLAICE",
-		"footprint": 23.28046736
-	},
-	{
-		"name": "HOKI",
-		"footprint": 7.148932597
-	},
-	{
-		"name": "WHEAT",
-		"footprint": 1.176855587
-	},
-	{
-		"name": "RYE",
-		"footprint": 1.062139839
-	},
-	{
-		"name": "BARLEY",
-		"footprint": 1.149947423
-	},
-	{
-		"name": "OATS",
-		"footprint": 1.184860243
-	},
-	{
-		"name": "RICE",
-		"footprint": 3.579564355
-	},
-	{
-		"name": "RAPESEED OIL",
-		"footprint": 2.373003323
-	},
-	{
-		"name": "OLIVE OIL",
-		"footprint": 4.044846694
-	},
-	{
-		"name": "SUGAR",
-		"footprint": 1.523165461
-	},
-	{
-		"name": "TOMATO",
-		"footprint": 1.493989349
-	},
-	{
-		"name": "CUCUMBER",
-		"footprint": 0.734100042
-	},
-	{
-		"name": "BELL PEPPER",
-		"footprint": 2.333728229
-	},
-	{
-		"name": "ICEBERG LETTUCE",
-		"footprint": 0.322647658
-	},
-	{
-		"name": "POTATO",
-		"footprint": 0.375638513
-	},
-	{
-		"name": "CARROT",
-		"footprint": 0.298370864
-	},
-	{
-		"name": "ONION",
-		"footprint": 0.381612481
-	},
-	{
-		"name": "LEEK",
-		"footprint": 0.395561437
-	},
-	{
-		"name": "BROCCOLI",
-		"footprint": 0.627874827
-	},
-	{
-		"name": "WHITE CABBAGE",
-		"footprint": 0.359012096
-	},
-	{
-		"name": "CAULIFLOWER",
-		"footprint": 0.531403532
-	},
-	{
-		"name": "PEAS",
-		"footprint": 0.617573225
-	},
-	{
-		"name": "BEANS",
-		"footprint": 1.159890391
-	},
-	{
-		"name": "APPLE",
-		"footprint": 0.36967267
-	},
-	{
-		"name": "PEAR",
-		"footprint": 0.399295468
-	},
-	{
-		"name": "MELON",
-		"footprint": 2.141240029
-	},
-	{
-		"name": "BANANA",
-		"footprint": 0.67261454
-	},
-	{
-		"name": "ORANGE",
-		"footprint": 0.728614353
-	},
-	{
-		"name": "LEMON",
-		"footprint": 0.45637194
-	},
-	{
-		"name": "AVOCADO",
-		"footprint": 1.093448343
-	},
-	{
-		"name": "KIWIFRUIT",
-		"footprint": 0.632535203
-	},
-	{
-		"name": "STRAWBERRY",
-		"footprint": 0.73858763
-	},
-	{
-		"name": "RASPBERRY",
-		"footprint": 0.759482
-	},
-	{
-		"name": "COCOA POWDER",
-		"footprint": 4.437154929
-	},
-	{
-		"name": "COCOA BUTTER",
-		"footprint": 8.786018448
-	},
-	{
-		"name": "COFFEE",
-		"footprint": 6.406229764
-	},
-	{
-		"name": "PASTA",
-		"footprint": 1.76571932
-	},
-	{
-		"name": "BUNS",
-		"footprint": 1.447764517
-	},
-	{
-		"name": "BISCUITS",
-		"footprint": 1.104275024
-	},
-	{
-		"name": "PASTRY",
-		"footprint": 1.409857661
-	},
-	{
-		"name": "RUSKS",
-		"footprint": 1.433832349
-	},
-	{
-		"name": "WHEAT BREAD",
-		"footprint": 1.02194756
-	},
-	{
-		"name": "WHEAT-RYE BREAD",
-		"footprint": 1.043072702
-	},
-	{
-		"name": "CRISP BREAD",
-		"footprint": 1.114347356
-	},
-	{
-		"name": "FOLLOW-UP FORMULA",
-		"footprint": 3.658963493
-	},
-	{
-		"name": "MARGARINE",
-		"footprint": 2.417283753
-	},
-	{
-		"name": "LOW FAT MARGARINE",
-		"footprint": 1.272289192
-	},
-	{
-		"name": "COCOA DRINK POWDER",
-		"footprint": 2.303386124
-	},
-	{
-		"name": "SODA",
-		"footprint": 0.40582548
-	},
-	{
-		"name": "CIDER (NON-ALCOHOLIC)",
-		"footprint": 0.477932217
-	},
-	{
-		"name": "BEER (REGULAR)",
-		"footprint": 0.461326355
-	},
-	{
-		"name": "MINERAL WATER",
-		"footprint": 0.277240578
-	},
-	{
-		"name": "JUICE (AVERAGE)",
-		"footprint": 1.239805883
-	},
-	{
-		"name": "ORANGE JUICE",
-		"footprint": 1.687789075
-	},
-	{
-		"name": "APPLE JUICE",
-		"footprint": 0.791822691
-	},
-	{
-		"name": "SQUASH DRINK",
-		"footprint": 1.27361569
-	},
-	{
-		"name": "STRAWBERRY SQUASH DRINK",
-		"footprint": 1.244180357
-	},
-	{
-		"name": "RASPBERRY SQUASH DRINK",
-		"footprint": 1.303051023
-	},
-	{
-		"name": "CHOCOLATE",
-		"footprint": 6.856879104
-	},
-	{
-		"name": "POTATO CRISPS",
-		"footprint": 2.89291368
-	},
-	{
-		"name": "ICE CREAM",
-		"footprint": 4.281456556
 	}
 ]
